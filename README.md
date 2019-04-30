@@ -8,6 +8,10 @@ Prowl line: [map](https://uwm.edu/transportation/prowllinecommuters/)
 
 * [Python - Pandas subtotals on groupby](https://stackoverflow.com/questions/47494720/python-pandas-subtotals-on-groupby)
 
+  * [pandas Multi-index and groupbys (article) - DataCamp](https://www.datacamp.com/community/tutorials/pandas-multi-index) 
+  * [Pandas .groupby(), Lambda Functions, & Pivot Tables | Python ...](https://mode.com/python-tutorial/pandas-groupby-and-python-lambda-functions/) 
+  * pandas.MultiIndex [link](https://pandas.pydata.org/pandas-docs/stable/user_guide/advanced.html) 
+
 * [Convert Date String to Day of Week](https://stackoverflow.com/questions/16766643/convert-date-string-to-day-of-week)
 
   * ```py
@@ -15,8 +19,6 @@ Prowl line: [map](https://uwm.edu/transportation/prowllinecommuters/)
     ```
 
 * 
-
-
 
 Flowchart
 
