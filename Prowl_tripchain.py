@@ -13,4 +13,5 @@ df_raw['Unhashed card ID']
 
 df_person = df_raw[df_raw['Unhashed card ID'] == 100592 ]
 
-df_person[['Date','Time','Stop']]
+df_person[['Date','Time','Stop','Bus']]
+
