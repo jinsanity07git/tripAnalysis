@@ -1,5 +1,7 @@
 Prowl line: [map](https://uwm.edu/transportation/prowllinecommuters/) 
 
+[Feature request - default themes for Python interactive window](https://github.com/Microsoft/vscode-python/issues/3773) 
+
 04/30
 
 * [List Unique Values In A pandas Column - Chris Albon](https://chrisalbon.com/python/data_wrangling/pandas_list_unique_values_in_column/)
@@ -11,6 +13,8 @@ Prowl line: [map](https://uwm.edu/transportation/prowllinecommuters/)
   * [pandas Multi-index and groupbys (article) - DataCamp](https://www.datacamp.com/community/tutorials/pandas-multi-index) 
   * [Pandas .groupby(), Lambda Functions, & Pivot Tables | Python ...](https://mode.com/python-tutorial/pandas-groupby-and-python-lambda-functions/) 
   * pandas.MultiIndex [link](https://pandas.pydata.org/pandas-docs/stable/user_guide/advanced.html) 
+  * [Simple demo of Pandas DataFrames and MultiIndex](https://www.somebits.com/~nelson/pandas-multiindex-slice-demo.html)  : df.xs('Apple')
+  * Hierarchical Indexing [link](https://jakevdp.github.io/PythonDataScienceHandbook/03.05-hierarchical-indexing.html) 
 
 * [Convert Date String to Day of Week](https://stackoverflow.com/questions/16766643/convert-date-string-to-day-of-week)
 
@@ -54,3 +58,6 @@ id1(Data clean) --> id2(Personal travel characteristics)
 Park N rider user:
 
 stud = 180 
+
+
+

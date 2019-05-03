@@ -28,19 +28,35 @@ df_person.groupby(['OnOffCam'])['Date'].count()
 
 # OD Infering---- On-off Campus
 df_OD =df_person.groupby(['OnOffCam','Stop']).count()
-df_person.groupby(['OnOffCam','Stop']).size()
+df_ODp=df_person.groupby(['OnOffCam','Stop']).size()
 
-df_OD.plot('barh')
-df_OD.columns
+'''
+type(df_ODp) # pandas.core.series.Series
+type(df_OD)
 
-df_tem =  df_OD[df_OD['Date'] > 15]
-df_tem.names
+Only series can be multi indexed????
+dataframe need to use loc
+'''
+df_ODp[0,'Non-Peak Hours UWM KIRC (KIRC-S)']
+df_OD.xs(0)
+df_OD.loc[0,('Cunningham Hall (Cunn)')]
+for i,n in enumerate(df_OD.loc[0,]['Date']):
+    print (i,n)
+df_OD.loc[0,]['Date'] 
 
+df_tem =  df_ODp[df_ODp['Date'] > 15]
+df_tem[0]
 df_OD.to_json()
-
 len(df_OD)
-df_OD[[5]]
 
-df_OD[(0, 'Cunningham Hall (Cunn)')]
+df_OD.index[1]
 
-df_OD.index[5]
+df_OD[0]
+df_OD.index
+
+df_OD[5:]
+df_OD[0, 'Capitol and Humboldt Park and Ride (C/H)']
+
+df_person.index
+df_person['100968']
+
