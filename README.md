@@ -61,3 +61,36 @@ stud = 180
 
 
 
+
+
+
+
+Trip chan flow
+
+```mermaid
+graph TD
+
+id1(select frequent user ) --> id2(Personal travel characteristics)
+```
+
+
+
+
+
+* select frequent user 
+  * One way trip  >= 10
+* OD  filtering
+  * OD difference <= 40%
+* Determine OD
+  * If Count_O >  Count_D 
+    * Choose the most frequent stop as D 
+    * Choose the most frequent stop as O
+    * Using the smaller count Count_D as trip number
+    * If D_max <= 80% of  O_max
+      * Choose D_2ndmax as the second origin of the same person
+  * If Count_O <  Count_D 
+    * versa
+* Writing
+  * Student ID
+  * Origin. 
+  * Destination  count
