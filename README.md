@@ -78,7 +78,7 @@ id1(select frequent user ) --> id2(Personal travel characteristics)
 
 
 * select frequent user 
-  * One way trip  >= 10
+  * One way trip  >= 5
 * OD  filtering
   * OD difference <= 40%
 * Determine OD
