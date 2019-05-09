@@ -38,14 +38,14 @@ id1(Data clean) --> id2(Personal travel characteristics)
 
 ## Data clean
 
-* drop none value in rows
+* Drop none value in rows
 
-* Drop useless columns
+* Drop useless columns 
 
-* add extra informations
+* Add extra informations
 
   * On-Off campus
-  * weekday
+  * Weekday
 
   
 

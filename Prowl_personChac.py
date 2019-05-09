@@ -15,7 +15,7 @@ Index(['Date', 'Time', 'Stop', 'OnOffCam'], dtype='object')
 Stud_ID = df_raw.index.unique()
 len(Stud_ID)  #7572
 
-stud = 1080
+stud = 1210
 df_person = df_raw[df_raw.index == Stud_ID[stud] ]
 # df_person.groupby(['OnOffCam','Stop','Date']).count()
 

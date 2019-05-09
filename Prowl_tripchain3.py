@@ -24,6 +24,8 @@ off_campus =['Cambridge Commons (CC-S)',
             'RiverView Residence Hall (RVW)'
             ]
 
+
+
 df_raw[df_raw['Stop_0']==on_campus[0]  ]
 
 df_sub = df_raw.loc[ (df_raw['Stop_0']==on_campus[3]) & (df_raw['Stop_1']==off_campus[3] )  ]
