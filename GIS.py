@@ -1,29 +1,48 @@
-import geopandas
-from descartes import PolygonPatch
-# Set filepath (fix path relative to yours)
-# fp = "Data/MCTS Routes and Bus Stops - March 2019/AllRoutesMar19.shp"
-
-fp ='/Users/jinsanity/OneDrive - UWM/project/Taiyuan/太原卡口数据分析/taiyuan.shp'
-# Read file using gpd.read_file()
-data = geopandas.read_file(fp)
-
-print (type(data))
 
 
 
 
-
+import json
+from sklearn.cluster import KMeans
+import numpy as np
 import matplotlib.pyplot as plt
-fig = plt.figure(figsize=(20,30)) 
-fig, ax = plt.subplots(1, 1)
+from matplotlib.pyplot import figure
 
-world = geopandas.read_file(geopandas.datasets.get_path('naturalearth_lowres'))
-data.head()
-data['sas'] =1
+with open('Data/boss_trianning.geojson') as f:
+    data = json.load(f)
+    
+coordinates = [feature['geometry']['coordinates'] for feature in data['features']]
+coordinates = np.array(coordinates) # for array of list coordinates[:, 0]
+#Train model
+num_clusters = 7
+kmeans = KMeans(n_clusters=num_clusters)
+kmeans.fit(coordinates)
 
-type(data['geometry'][1])
 
+#Plot clusters
+figure(num=None, figsize=(8, 6), dpi=80, facecolor='w', edgecolor='k')
 
-data.plot(column='卡口id', ax=ax, legend=True)
+# cc = kmeans.predict(coordinates)
+# y_point = [coordinates[i][1] for i in range(len(coordinates)) ]
+# x_point = [coordinates[i][0] for i in range(len(coordinates)) ]
 
-# fig.show()
+# plt.scatter(x_point, y_point, c=cc, s=50, cmap='viridis')
+# plt.xlim(min(coordinates[:, 0])*1.0001, max(coordinates[:, 0]*0.9999))
+# plt.ylim(min(coordinates[:, 1])*1.001, max(coordinates[:, 1]*0.999))
+plt.scatter(coordinates[:, 0], coordinates[:, 1], c=kmeans.predict(coordinates), s=num_clusters, cmap='viridis')
+
+# #Plot clusters __center
+# centers = kmeans.cluster_centers_
+# plt.xlim(min(coordinates[:, 0]) - 10, -50)
+# plt.scatter(
+# centers[:, 0],
+# centers[:, 1],
+# c='black',
+# s=200,
+# alpha=0.5
+# );
+
+import geopandas
+
+df = geopandas.read_file(geopandas.datasets.get_path('nybb'))
+ax = df.plot(figsize=(10, 10), alpha=0.5, edgecolor='k')
