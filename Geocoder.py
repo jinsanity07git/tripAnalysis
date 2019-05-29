@@ -50,12 +50,9 @@ Index(['Requested Pick Up Time', '# of Pass-engers', 'Pick Up Location',
 # print (len(df['Pick Up Location'][index]))
 
 df['lat'],df['long']  = None,None
-
-
 num = len(df)
 add_set = set()
 len_set = set()
-
 for i in range(num):
     address = df['Pick Up Location'][i]
     if len(address) > 40:
@@ -87,17 +84,17 @@ with open('outliers.csv','w') as csvfile:
         # wr = csv.writer(csvfile)
         for line in add_set:
             try:
-                csvfile.write(line + ',\n')
+                csvfile.write(line + '\n')
             except:
                 pass
 
         for line in len_set:
             try:
-                csvfile.write(line + ',\n')
+                csvfile.write(line + '\n')
             except:
                 pass
 
-
+print((end - start)/60)
 # with open(path,'rw') as file: 
 #     for line in file:
 #         if 'Requested Pick Up' in line:
