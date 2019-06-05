@@ -58,7 +58,7 @@ if __name__ == '__main__':
     data = []
     for i in address_to_search:
         
-        .append(get_address_details(i))
+        data.append(get_address_details(i))
     with open("data_test.csv",'w') as csvfile:
         csvwriter = DictWriter(csvfile, fieldnames=data[0].keys(), quoting=QUOTE_ALL)
         csvwriter.writeheader()

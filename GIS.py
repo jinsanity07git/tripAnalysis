@@ -22,7 +22,7 @@ kmeans.fit(coordinates)
 #Plot clusters
 figure(num=None, figsize=(8, 6), dpi=80, facecolor='w', edgecolor='k')
 
-# cc = kmeans.predict(coordinates)
+cc = kmeans.predict(coordinates)
 # y_point = [coordinates[i][1] for i in range(len(coordinates)) ]
 # x_point = [coordinates[i][0] for i in range(len(coordinates)) ]
 
@@ -41,8 +41,15 @@ plt.scatter(coordinates[:, 0], coordinates[:, 1], c=kmeans.predict(coordinates),
 # s=200,
 # alpha=0.5
 # );
-
+plt.show()
 import geopandas
 
 df = geopandas.read_file(geopandas.datasets.get_path('nybb'))
 ax = df.plot(figsize=(10, 10), alpha=0.5, edgecolor='k')
+
+
+### TO add classifier information into the GEOjson file or shape file
+for i in range(len(data['features'])):
+    data['features'][i]['properties'].update({'class':cc[i]})
+
+data['features']

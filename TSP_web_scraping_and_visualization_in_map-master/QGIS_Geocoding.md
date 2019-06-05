@@ -1,3 +1,23 @@
+QGIS OD flow
+
+* [**qgis-plugin-flow-map-arrow-curver**](https://github.com/patmalcolm91/qgis-plugin-flow-map-arrow-curver).
+
+   **This plugin is incompatible with this version of QGIS**
+  Plugin designed for QGIS 2.0 - 2.99
+
+* flow GIS ; GitHub
+
+  * [FlowpyGIS](https://github.com/glennon/FlowpyGIS)  : QGIS' official plugin repository. More info [here](http://95.9.195.180/).
+  * [paulojraposo/*Flow*Maps](https://github.com/paulojraposo/FlowMaps)
+  * [Gooong/*Flow*Map](https://github.com/Gooong/FlowMap) Js
+
+* Matrix ; QGIS
+
+  * QNEAT3QNEAT3 - QGIS Network Analysis Toolbox 3
+  * Toolsopenrouteservice routing, isochrones and matrix calculations for QGIS
+
+  
+
 [Available Python Packages to Parse Addresses](https://www.scrapehero.com/how-to-parse-unstructured-addresses-using-python-and-google-geocoding-api/) 
 
 [gmpplot-----Plotting data on google maps, the easy (stupid) way.](https://github.com/vgm64/gmplot)
@@ -24,3 +44,12 @@ Tutorial
 * Geplot [gallery](https://residentmario.github.io/geoplot/gallery.html) 
 * [Geographic Data with Basemap](https://jakevdp.github.io/PythonDataScienceHandbook/04.13-geographic-data-with-basemap.html)  *This is an excerpt from the Python Data Science Handbook by Jake VanderPlas; Jupyter notebooks are available on GitHub.* 
 *  
+
+
+
+Shapefile vs Geojson
+
+* [Why you should use GeoPackage instead of Shapefile](https://www.gis-blog.com/geopackage-vs-shapefile/) 
+* [Switch from Shapefile](http://switchfromshapefile.org/#hierarchy) 
+* [The Ultimate List of GIS Formats and Geospatial File Extensions](https://gisgeography.com/gis-formats/) 
+

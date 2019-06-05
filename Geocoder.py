@@ -7,6 +7,7 @@ import pandas as pd
 import csv
 import time
 
+## GoogleV3(api_key=myKey, timeout=3)  geocoding too slow
 start = time.time()
 print("hello")
 
