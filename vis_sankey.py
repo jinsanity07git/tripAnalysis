@@ -36,7 +36,9 @@ python main.1.py '{"basic_config": {"width": "800", "height": "600", "title_top"
 '''
 
 # config_data=json.loads( '{"basic_config": {"width": "800", "height": "600", "title_top": ["0"], "color_b": "#ffffff", "title_pos": ["1"], "title_color": "#000000", "title": "桑基图", "subtitle": "样例", "f_size_m": "18", "f_size_s": "12", "sub_color": "#ff2600"}}')
-inputdata = 'Data/sankeychart.xlsx'
+# inputdata = 'Data/sankeychart_Boss.xlsx'
+inputdata = 'Data/sankeychart_Prowl.xlsx'
+
 outdata = 'notebook/out.html'
 
 print("break ponit 2")

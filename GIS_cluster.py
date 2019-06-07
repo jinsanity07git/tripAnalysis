@@ -61,14 +61,14 @@ from geojson import Point, Feature, FeatureCollection, dump
 ### TO add classifier information into the GEOjson file or shape file
 Len01 = len(data01['features'])
 for i in range(Len01):
-    data01['features'][i]['properties'].update({'class':str(cc[i])})
+    data01['features'][i]['properties'].update({'class':'cluser_'+ str(cc[i])})
 
 with open(outfile01, 'w') as f:
    dump(data01, f)
 
 Len02 = len(cc) - Len01
 for i in range(Len02):
-    data02['features'][i]['properties'].update({'class':str(cc[i])})
+    data02['features'][i]['properties'].update({'class':'cluser_'+ str(cc[i])})
 
 with open(outfile02, 'w') as f:
    dump(data02, f)

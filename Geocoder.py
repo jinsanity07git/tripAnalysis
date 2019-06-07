@@ -35,7 +35,7 @@ def geo_coder(my_address= "Union South UWM" ):
 
 location = {'O':'Pick Up Location', 'D':'Drop Off Location'}
 path  = 'Data/2019_02.csv'
-OD_type = location['D']
+OD_type = location['O']
 outfile01 = 'boss02_'+OD_type+ '.csv'
 outfile02 = 'outliers' +OD_type + '.csv'
 

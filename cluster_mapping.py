@@ -6,7 +6,7 @@ inputfile01 = 'Data/Geojson/02_Origin.geojson'
 inputfile02 = 'Data/Geojson/02_Destination.geojson'
 
 outfile01 = 'Data/Geojson/address_class_dic.json'
-
+outfile02 = '02_ODflow.csv'
 
 ### step01 preparing address class to a {address : class_type} dict for indexing
 with open(inputfile01) as f:
@@ -79,11 +79,12 @@ for i in range(len(df)):
 
 
 ### Filter out nan rows in a specific column
-df.dropna(subset=['O_type', 'D_type']) 
+df.dropna(subset=['O_type', 'D_type'])[['O_type', 'D_type']]
 # df.dropna(subset=['']) 
 # df[df['O_type'].isnull()].drop()
 
 ### print groupby count from O to D
-df.groupby(['O_type', 'D_type']).count()['Requested Pick Up Time']
+df_agg = df.groupby(['O_type', 'D_type']).count()['Requested Pick Up Time']
 
 ### 2 levels groupby dataframe transform to a 2D matrix
+df_agg.to_csv(outfile02)

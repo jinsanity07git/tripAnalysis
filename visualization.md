@@ -1,3 +1,23 @@
+QGIS OD flow
+
+- [**qgis-plugin-flow-map-arrow-curver**](https://github.com/patmalcolm91/qgis-plugin-flow-map-arrow-curver).
+
+  **This plugin is incompatible with this version of QGIS**
+  Plugin designed for QGIS 2.0 - 2.99
+
+- flow GIS ; GitHub
+
+  - [FlowpyGIS](https://github.com/glennon/FlowpyGIS)  : QGIS' official plugin repository. More info [here](http://95.9.195.180/).
+  - [paulojraposo/*Flow*Maps](https://github.com/paulojraposo/FlowMaps)
+  - [Gooong/*Flow*Map](https://github.com/Gooong/FlowMap) Js
+
+- Matrix ; QGIS
+
+  - QNEAT3QNEAT3 - QGIS Network Analysis Toolbox 3
+  - Toolsopenrouteservice routing, isochrones and matrix calculations for QGIS
+
+
+
 
 
 ## Collection
