@@ -67,7 +67,7 @@ with open(outfile01, 'w') as f:
    dump(data01, f)
 
 Len02 = len(cc) - Len01
-for i in range(Len01,Len02):
+for i in range(Len02):
     data02['features'][i]['properties'].update({'class':str(cc[i])})
 
 with open(outfile02, 'w') as f:
