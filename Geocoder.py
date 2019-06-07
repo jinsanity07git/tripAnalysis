@@ -12,6 +12,28 @@ start = time.time()
 print("hello")
 
 
+location = {'O':'Pick Up Location', 'D':'Drop Off Location'}
+path  = 'Data/2019_02.csv'
+OD_type = location['O']
+Rela_ad = 'inprocess_results/'
+outfile01 = Rela_ad + 'boss02_'+OD_type+ '.csv'
+outfile02 = Rela_ad + 'outliers' +OD_type + '.csv'
+
+
+df = pd.read_csv(path,encoding = 'unicode_escape')
+df.columns
+
+
+
+'''
+Index(['Requested Pick Up Time', '# of Pass-engers', 'Pick Up Location',
+       'Drop Off Location', 'Cancellation Time', 'Pickup Time',
+       'Drop Off Time', 'Wait Time (min)', 'Passenger Canceled?',
+       'Cancellation Message', 'lat', 'long'],
+      dtype='object')
+'''
+
+
 with open('../Google_API.txt' ) as file:
     myKey  = file.read()
 
@@ -33,25 +55,6 @@ def geo_coder(my_address= "Union South UWM" ):
 # print(location.address)
 # print (location.latitude,location.longitude)
 
-location = {'O':'Pick Up Location', 'D':'Drop Off Location'}
-path  = 'Data/2019_02.csv'
-OD_type = location['O']
-outfile01 = 'boss02_'+OD_type+ '.csv'
-outfile02 = 'outliers' +OD_type + '.csv'
-
-
-df = pd.read_csv(path,encoding = 'unicode_escape')
-df.columns
-
-
-
-'''
-Index(['Requested Pick Up Time', '# of Pass-engers', 'Pick Up Location',
-       'Drop Off Location', 'Cancellation Time', 'Pickup Time',
-       'Drop Off Time', 'Wait Time (min)', 'Passenger Canceled?',
-       'Cancellation Message', 'lat', 'long'],
-      dtype='object')
-'''
 # index = 50
 # print (df['Pick Up Location'][index])
 # print (len(df['Pick Up Location'][index]))

@@ -1,3 +1,76 @@
+## Script workflow:
+
+* `Geocoder.py` :Using google API to parse address Geolocation (Geocode API results )
+
+  * Inputs 
+    * Request record of BOSS (one month)
+  * Outputs:
+    * Generate output01  `outliers` for  Origin or Destination address
+      'boss02_'+OD_type+ '.csv'
+    * Generate output02  `outliers` for  Origin or Destination address
+      'outliers' +OD_type + '.csv'
+  * Runtime: 
+    * 46 min for 9900 records
+
+* `Request.py`: Using google API to get the geolocation of fuzzy address  (google search engine result)
+
+  * Input
+    * List of address (Bug: address is separated into several pieces due to delimit  ','  )
+  * Output 
+    * Detailed address information table of the input list 
+
+* `GIS_cluster.py`: Spatial cluster by K-means approach 
+
+  * Features / Tasks
+    - [x] Plot points on matplotlib
+    - [ ] Get the center location of each cluster 
+      - [ ] radius??
+  * Input 
+    * Destination points (geojson file )
+    * Orgin points (geojson file )
+
+  ````
+  inputfile01 = 'Data/boss_trianning.geojson'
+  inputfile02 = 'Data/Geojson/boss_destination.geojson'
+  ````
+
+  * Output: Geojson file with class information 
+
+  ```
+  outfile01 = 'Data/Geojson/02_Origin.geojson'
+  outfile02 = 'Data/Geojson/02_Destination.geojson'
+  ```
+
+* `cluster_mapping.py`: generate a cluster based {O ,D ,Flow } file
+
+  * Features / Tasks
+
+    * [x] Generate a `dic_all`  dictionary  which stores {address: Class_[] } information
+    * [x] Map the address to cluster using  `dic_all` export to a csv file
+
+  * inputs
+
+    ```
+    inputfile01 = 'Data/Geojson/02_Origin.geojson'
+    inputfile02 = 'Data/Geojson/02_Destination.geojson'
+    
+    import pandas as pd
+    path  = 'Data/2019_02.csv'
+    ```
+
+  * outputs
+
+    ```
+    outfile01 = 'Data/Geojson/address_class_dic.json'
+    outfile02 = '02_ODflow.csv'
+    ```
+
+    
+
+   
+
+
+
 Campus transit lab
 
 * https://transxitlab.osu.edu/campus-transit-lab-0 

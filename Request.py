@@ -8,6 +8,10 @@ from pprint import pprint
 from json import dump
 from csv import QUOTE_ALL, DictWriter
 import pandas as pd
+import time
+
+
+
 
 with open('../Google_API_Jin.txt' ) as file:
     API_KEY  = file.read()
@@ -50,7 +54,14 @@ if __name__ == '__main__':
     """
     Provide the address via csv or paste it here 
     """
-    path = 'outliers.csv'
+    start = time.time()
+    print("hello")
+
+    Rela_ad = 'inprocess_results/'
+    path = Rela_ad + 'outliers.csv'
+
+    outfile01 = Rela_ad + "Request_data_test.csv"
+
     df = pd.read_csv(path,delimiter='\n', header= None)
     address_to_search = list(df[0])
     # address_to_search = list(csv.DictReader("outliers.csv"))
@@ -59,11 +70,14 @@ if __name__ == '__main__':
     for i in address_to_search:
         
         data.append(get_address_details(i))
-    with open("data_test.csv",'w') as csvfile:
+    with open(outfile01,'w') as csvfile:
         csvwriter = DictWriter(csvfile, fieldnames=data[0].keys(), quoting=QUOTE_ALL)
         csvwriter.writeheader()
         csvwriter.writerows(data)
 
+    
+    end = time.time()
+    print(str(int((end - start)/60)) + ' min' )
 
 
 # json = response.json()

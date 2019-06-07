@@ -5,8 +5,9 @@ import numpy as np
 inputfile01 = 'Data/Geojson/02_Origin.geojson'
 inputfile02 = 'Data/Geojson/02_Destination.geojson'
 
+Rela_ad = 'inprocess_results/'
 outfile01 = 'Data/Geojson/address_class_dic.json'
-outfile02 = '02_ODflow.csv'
+outfile02 = Rela_ad + '02_ODflow.csv'
 
 ### step01 preparing address class to a {address : class_type} dict for indexing
 with open(inputfile01) as f:
@@ -45,6 +46,8 @@ for index in range(len02):
 with open(outfile01,'w') as f:
     json.dump(dic_all,f)
 # dic01[address]
+
+
 
 
 ###
