@@ -23,7 +23,8 @@
 
   * Features / Tasks
     - [x] Plot points on matplotlib
-    - [ ] Get the center location of each cluster 
+    - [x] Get the center location of each cluster 
+      [K-Means Clustering in Python](https://mubaris.com/posts/kmeans-clustering/) 
       - [ ] radius??
   * Input 
     * Destination points (geojson file )
