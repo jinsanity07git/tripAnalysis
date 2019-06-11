@@ -15,6 +15,17 @@ with open(input01,'r') as file:
 
 df =pd.read_csv(input02,header=None) 
 
+
+### prepare a color dictionary for each cluster 
+
+from palettable.colorbrewer.qualitative import Paired_10
+
+array01 = df[1].unique()
+dic_color = {}
+for i in range(len(array01)):
+    dic_color.update( {df[1].unique()[i] : Paired_10.hex_colors[i]} )
+
+
 dic_fCol = {
   "type": "FeatureCollection",
   "features": []
@@ -72,7 +83,7 @@ for index in range(len(df)):
     width = flow/max_flow * 20
     dic_feat['properties'].update({"stroke-width":int(width)})
     dic_feat['properties'].update({"flow":int(flow)})
-    
+    dic_feat['properties'].update({"stroke":dic_color[A]})
 
 dic_fCol.update({'features' : ls_feat})
 

@@ -66,7 +66,28 @@
     outfile02 = '02_ODflow.csv'
     ```
 
-    
+* `mapping_Geojson.py` generate OD flow based on  {O ,D ,Flow } file
+
+  * Features / Tasks
+
+    * Get the color platte
+      * Matplotlib colormap [link](https://matplotlib.org/users/colormaps.html) 
+    * Color platte library [link](https://jiffyclub.github.io/palettable/#matplotlib-color-cycle) 
+      * [ **Qualitative** palettes](https://jiffyclub.github.io/palettable/colorbrewer/qualitative/#) 
+
+  * Inputs
+
+    ```
+    Rela_ad = 'inprocess_results/'
+    input01  = 'inprocess_results/centers.json'
+    input02  = Rela_ad + '02_ODflow.csv'
+    ```
+
+  * outputs
+
+    ```
+    outfile01 = Rela_ad + 'flow.geojson'
+    ```
 
    
 
