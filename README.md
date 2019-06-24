@@ -110,18 +110,33 @@
     ```
 
 
-* 'Distance_calculator_M.py', calculate distance **matrix**:  based on Waze API
+* `Distance_calculator_M.py`, calculate distance **matrix**:  based on Waze API
 
   * Features 
 
     * Waze not always has response
-    * Search multiple times to attain a distance matrix
+    * Search multiple times to attain a diastance matrix
 
-  * Connection 
+  * Interface 
 
     ```
     input01   = 'inprocess_results/points_NB.csv'
     output01  = 'inprocess_results/ODMatrix_NB.csv'
+    ```
+
+* `distance_calculator_L.py`, calculate distance **list**:  based on the list to generate the OD matrix
+
+  * Features
+
+    * Time saver 
+      * N*N decrease to N + (N-1) …+ 1
+
+  * interface
+
+    ```
+    input01   = 'inprocess_results/points_NB.csv'
+    output01  = 'inprocess_results/ODlist_NB.csv'
+    output02  = 'inprocess_results/ODlMtx_NB.csv'
     ```
 
     
@@ -130,7 +145,7 @@ Campus transit lab
 
 * https://transxitlab.osu.edu/campus-transit-lab-0 
 
-Prowl line: [map](https://uwm.edu/transportation/prowllinecommuters/) 
+sProwl line: [map](https://uwm.edu/transportation/prowllinecommuters/) 
 
 [Feature request - default themes for Python interactive window](https://github.com/Microsoft/vscode-python/issues/3773) 
 
