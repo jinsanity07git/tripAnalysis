@@ -40,8 +40,28 @@
   ```
   outfile01 = 'Data/Geojson/02_Origin.geojson'
   outfile02 = 'Data/Geojson/02_Destination.geojson'
+  
   ```
 
+* `geopoint_json.py` :  parse the point from shape file to generate a {place: coordination } dictionary
+
+  * Input
+
+    ```
+    input01 = 'inprocess_results/prowline stops.shp'\
+    ```
+  ```
+  
+  ```
+  
+* output
+  
+    ```
+    output01  = 'center_prowl.json'
+    ```
+  
+    
+  
 * `cluster_mapping.py`: generate a cluster based {O ,D ,Flow } file
 
   * Features / Tasks
@@ -89,9 +109,22 @@
     outfile01 = Rela_ad + 'flow.geojson'
     ```
 
-   
 
+* 'Distance_calculator_M.py', calculate distance **matrix**:  based on Waze API
 
+  * Features 
+
+    * Waze not always has response
+    * Search multiple times to attain a distance matrix
+
+  * Connection 
+
+    ```
+    input01   = 'inprocess_results/points_NB.csv'
+    output01  = 'inprocess_results/ODMatrix_NB.csv'
+    ```
+
+    
 
 Campus transit lab
 
