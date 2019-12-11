@@ -1,1 +1,580 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"stroke": "#E31A1C", "stroke-width": 1, "stroke-opacity": 0.4, "direction": "Cunningham Hall (Cunn)->Cambridge Commons (CC-S)", "flow": 1622}, "geometry": {"type": "LineString", "coordinates": [[-87.88534228842896, 43.07759461928042], [-87.89195890443179, 43.0602355490372]]}}, {"type": "Feature", "properties": {"stroke": "#E31A1C", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Cunningham Hall (Cunn)->Cambridge Commons - Northbound (CC-N)", "flow": 1}, "geometry": {"type": "LineString", "coordinates": [[-87.88534228842896, 43.07759461928042], [-87.8917989365303, 43.060801016968036]]}}, {"type": "Feature", "properties": {"stroke": "#E31A1C", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Cunningham Hall (Cunn)->Capitol and Humboldt Park and Ride (C/H)", "flow": 0}, "geometry": {"type": "LineString", "coordinates": [[-87.88534228842896, 43.07759461928042], [-87.9028010129797, 43.094042603657066]]}}, {"type": "Feature", "properties": {"stroke": "#E31A1C", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Cunningham Hall (Cunn)->Kenilworth Square Apartments (KNW)", "flow": 232}, "geometry": {"type": "LineString", "coordinates": [[-87.88534228842896, 43.07759461928042], [-87.88552884804454, 43.05995187026254]]}}, {"type": "Feature", "properties": {"stroke": "#E31A1C", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Cunningham Hall (Cunn)->RiverView Residence Hall (RVW)", "flow": 1017}, "geometry": {"type": "LineString", "coordinates": [[-87.88534228842896, 43.07759461928042], [-87.89545215697821, 43.060648489434065]]}}, {"type": "Feature", "properties": {"stroke": "#FDBF6F", "stroke-width": 17, "stroke-opacity": 0.4, "direction": "UWM Golda Meir Library (Lib)->Cambridge Commons (CC-S)", "flow": 17791}, "geometry": {"type": "LineString", "coordinates": [[-87.87994058161593, 43.07759089909665], [-87.89195890443179, 43.0602355490372]]}}, {"type": "Feature", "properties": {"stroke": "#FDBF6F", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "UWM Golda Meir Library (Lib)->Cambridge Commons - Northbound (CC-N)", "flow": 34}, "geometry": {"type": "LineString", "coordinates": [[-87.87994058161593, 43.07759089909665], [-87.8917989365303, 43.060801016968036]]}}, {"type": "Feature", "properties": {"stroke": "#FDBF6F", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "UWM Golda Meir Library (Lib)->Capitol and Humboldt Park and Ride (C/H)", "flow": 39}, "geometry": {"type": "LineString", "coordinates": [[-87.87994058161593, 43.07759089909665], [-87.9028010129797, 43.094042603657066]]}}, {"type": "Feature", "properties": {"stroke": "#FDBF6F", "stroke-width": 3, "stroke-opacity": 0.4, "direction": "UWM Golda Meir Library (Lib)->Kenilworth Square Apartments (KNW)", "flow": 3489}, "geometry": {"type": "LineString", "coordinates": [[-87.87994058161593, 43.07759089909665], [-87.88552884804454, 43.05995187026254]]}}, {"type": "Feature", "properties": {"stroke": "#FDBF6F", "stroke-width": 12, "stroke-opacity": 0.4, "direction": "UWM Golda Meir Library (Lib)->RiverView Residence Hall (RVW)", "flow": 12542}, "geometry": {"type": "LineString", "coordinates": [[-87.87994058161593, 43.07759089909665], [-87.89545215697821, 43.060648489434065]]}}, {"type": "Feature", "properties": {"stroke": "#FF7F00", "stroke-width": 2, "stroke-opacity": 0.4, "direction": "Sandburg Residence Hall (Sand)->Cambridge Commons (CC-S)", "flow": 2091}, "geometry": {"type": "LineString", "coordinates": [[-87.88273815980008, 43.07898596800496], [-87.89195890443179, 43.0602355490372]]}}, {"type": "Feature", "properties": {"stroke": "#FF7F00", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Sandburg Residence Hall (Sand)->Cambridge Commons - Northbound (CC-N)", "flow": 14}, "geometry": {"type": "LineString", "coordinates": [[-87.88273815980008, 43.07898596800496], [-87.8917989365303, 43.060801016968036]]}}, {"type": "Feature", "properties": {"stroke": "#FF7F00", "stroke-width": 5, "stroke-opacity": 0.4, "direction": "Sandburg Residence Hall (Sand)->Capitol and Humboldt Park and Ride (C/H)", "flow": 5170}, "geometry": {"type": "LineString", "coordinates": [[-87.88273815980008, 43.07898596800496], [-87.9028010129797, 43.094042603657066]]}}, {"type": "Feature", "properties": {"stroke": "#FF7F00", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Sandburg Residence Hall (Sand)->Kenilworth Square Apartments (KNW)", "flow": 1011}, "geometry": {"type": "LineString", "coordinates": [[-87.88273815980008, 43.07898596800496], [-87.88552884804454, 43.05995187026254]]}}, {"type": "Feature", "properties": {"stroke": "#FF7F00", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Sandburg Residence Hall (Sand)->RiverView Residence Hall (RVW)", "flow": 777}, "geometry": {"type": "LineString", "coordinates": [[-87.88273815980008, 43.07898596800496], [-87.89545215697821, 43.060648489434065]]}}, {"type": "Feature", "properties": {"stroke": "#CAB2D6", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "UWM Union (Union)->Cambridge Commons (CC-S)", "flow": 15}, "geometry": {"type": "LineString", "coordinates": [[-87.8828423249452, 43.0749421282627], [-87.89195890443179, 43.0602355490372]]}}, {"type": "Feature", "properties": {"stroke": "#CAB2D6", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "UWM Union (Union)->Cambridge Commons - Northbound (CC-N)", "flow": 10}, "geometry": {"type": "LineString", "coordinates": [[-87.8828423249452, 43.0749421282627], [-87.8917989365303, 43.060801016968036]]}}, {"type": "Feature", "properties": {"stroke": "#CAB2D6", "stroke-width": 20, "stroke-opacity": 0.4, "direction": "UWM Union (Union)->Capitol and Humboldt Park and Ride (C/H)", "flow": 20668}, "geometry": {"type": "LineString", "coordinates": [[-87.8828423249452, 43.0749421282627], [-87.9028010129797, 43.094042603657066]]}}, {"type": "Feature", "properties": {"stroke": "#CAB2D6", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "UWM Union (Union)->Kenilworth Square Apartments (KNW)", "flow": 125}, "geometry": {"type": "LineString", "coordinates": [[-87.8828423249452, 43.0749421282627], [-87.88552884804454, 43.05995187026254]]}}, {"type": "Feature", "properties": {"stroke": "#CAB2D6", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "UWM Union (Union)->RiverView Residence Hall (RVW)", "flow": 0}, "geometry": {"type": "LineString", "coordinates": [[-87.8828423249452, 43.0749421282627], [-87.89545215697821, 43.060648489434065]]}}, {"type": "Feature", "properties": {"stroke": "#6A3D9A", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->Cambridge Commons (CC-S)", "flow": 14}, "geometry": {"type": "LineString", "coordinates": [[-87.87791680165286, 43.07941564922871], [-87.89195890443179, 43.0602355490372]]}}, {"type": "Feature", "properties": {"stroke": "#6A3D9A", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->Cambridge Commons - Northbound (CC-N)", "flow": 0}, "geometry": {"type": "LineString", "coordinates": [[-87.87791680165286, 43.07941564922871], [-87.8917989365303, 43.060801016968036]]}}, {"type": "Feature", "properties": {"stroke": "#6A3D9A", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->Capitol and Humboldt Park and Ride (C/H)", "flow": 51}, "geometry": {"type": "LineString", "coordinates": [[-87.87791680165286, 43.07941564922871], [-87.9028010129797, 43.094042603657066]]}}, {"type": "Feature", "properties": {"stroke": "#6A3D9A", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->Kenilworth Square Apartments (KNW)", "flow": 136}, "geometry": {"type": "LineString", "coordinates": [[-87.87791680165286, 43.07941564922871], [-87.88552884804454, 43.05995187026254]]}}, {"type": "Feature", "properties": {"stroke": "#6A3D9A", "stroke-width": 0, "stroke-opacity": 0.4, "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->RiverView Residence Hall (RVW)", "flow": 13}, "geometry": {"type": "LineString", "coordinates": [[-87.87791680165286, 43.07941564922871], [-87.89545215697821, 43.060648489434065]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#E31A1C",
+        "stroke-width": 14,
+        "stroke-opacity": 0.4,
+        "direction": "Cunningham Hall (Cunn)->Cambridge Commons (CC-S)",
+        "flow": 1622
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88534228842896,
+            43.07759461928042
+          ],
+          [
+            -87.89195890443179,
+            43.0602355490372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#E31A1C",
+        "stroke-width": 0,
+        "stroke-opacity": 0.4,
+        "direction": "Cunningham Hall (Cunn)->Cambridge Commons - Northbound (CC-N)",
+        "flow": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88534228842896,
+            43.07759461928042
+          ],
+          [
+            -87.8917989365303,
+            43.060801016968036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#E31A1C",
+        "stroke-width": 0,
+        "stroke-opacity": 0.4,
+        "direction": "Cunningham Hall (Cunn)->Capitol and Humboldt Park and Ride (C/H)",
+        "flow": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88534228842896,
+            43.07759461928042
+          ],
+          [
+            -87.9028010129797,
+            43.094042603657066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#E31A1C",
+        "stroke-width": 10,
+        "stroke-opacity": 0.4,
+        "direction": "Cunningham Hall (Cunn)->Kenilworth Square Apartments (KNW)",
+        "flow": 232
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88534228842896,
+            43.07759461928042
+          ],
+          [
+            -87.88552884804454,
+            43.05995187026254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#E31A1C",
+        "stroke-width": 13,
+        "stroke-opacity": 0.4,
+        "direction": "Cunningham Hall (Cunn)->RiverView Residence Hall (RVW)",
+        "flow": 1017
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88534228842896,
+            43.07759461928042
+          ],
+          [
+            -87.89545215697821,
+            43.060648489434065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FDBF6F",
+        "stroke-width": 19,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Golda Meir Library (Lib)->Cambridge Commons (CC-S)",
+        "flow": 17791
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87994058161593,
+            43.07759089909665
+          ],
+          [
+            -87.89195890443179,
+            43.0602355490372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FDBF6F",
+        "stroke-width": 7,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Golda Meir Library (Lib)->Cambridge Commons - Northbound (CC-N)",
+        "flow": 34
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87994058161593,
+            43.07759089909665
+          ],
+          [
+            -87.8917989365303,
+            43.060801016968036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FDBF6F",
+        "stroke-width": 7,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Golda Meir Library (Lib)->Capitol and Humboldt Park and Ride (C/H)",
+        "flow": 39
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87994058161593,
+            43.07759089909665
+          ],
+          [
+            -87.9028010129797,
+            43.094042603657066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FDBF6F",
+        "stroke-width": 16,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Golda Meir Library (Lib)->Kenilworth Square Apartments (KNW)",
+        "flow": 3489
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87994058161593,
+            43.07759089909665
+          ],
+          [
+            -87.88552884804454,
+            43.05995187026254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FDBF6F",
+        "stroke-width": 18,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Golda Meir Library (Lib)->RiverView Residence Hall (RVW)",
+        "flow": 12542
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87994058161593,
+            43.07759089909665
+          ],
+          [
+            -87.89545215697821,
+            43.060648489434065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FF7F00",
+        "stroke-width": 15,
+        "stroke-opacity": 0.4,
+        "direction": "Sandburg Residence Hall (Sand)->Cambridge Commons (CC-S)",
+        "flow": 2091
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88273815980008,
+            43.07898596800496
+          ],
+          [
+            -87.89195890443179,
+            43.0602355490372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FF7F00",
+        "stroke-width": 5,
+        "stroke-opacity": 0.4,
+        "direction": "Sandburg Residence Hall (Sand)->Cambridge Commons - Northbound (CC-N)",
+        "flow": 14
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88273815980008,
+            43.07898596800496
+          ],
+          [
+            -87.8917989365303,
+            43.060801016968036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FF7F00",
+        "stroke-width": 17,
+        "stroke-opacity": 0.4,
+        "direction": "Sandburg Residence Hall (Sand)->Capitol and Humboldt Park and Ride (C/H)",
+        "flow": 5170
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88273815980008,
+            43.07898596800496
+          ],
+          [
+            -87.9028010129797,
+            43.094042603657066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FF7F00",
+        "stroke-width": 13,
+        "stroke-opacity": 0.4,
+        "direction": "Sandburg Residence Hall (Sand)->Kenilworth Square Apartments (KNW)",
+        "flow": 1011
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88273815980008,
+            43.07898596800496
+          ],
+          [
+            -87.88552884804454,
+            43.05995187026254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FF7F00",
+        "stroke-width": 13,
+        "stroke-opacity": 0.4,
+        "direction": "Sandburg Residence Hall (Sand)->RiverView Residence Hall (RVW)",
+        "flow": 777
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.88273815980008,
+            43.07898596800496
+          ],
+          [
+            -87.89545215697821,
+            43.060648489434065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#CAB2D6",
+        "stroke-width": 5,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Union (Union)->Cambridge Commons (CC-S)",
+        "flow": 15
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8828423249452,
+            43.0749421282627
+          ],
+          [
+            -87.89195890443179,
+            43.0602355490372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#CAB2D6",
+        "stroke-width": 4,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Union (Union)->Cambridge Commons - Northbound (CC-N)",
+        "flow": 10
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8828423249452,
+            43.0749421282627
+          ],
+          [
+            -87.8917989365303,
+            43.060801016968036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#CAB2D6",
+        "stroke-width": 20,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Union (Union)->Capitol and Humboldt Park and Ride (C/H)",
+        "flow": 20668
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8828423249452,
+            43.0749421282627
+          ],
+          [
+            -87.9028010129797,
+            43.094042603657066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#CAB2D6",
+        "stroke-width": 9,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Union (Union)->Kenilworth Square Apartments (KNW)",
+        "flow": 125
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8828423249452,
+            43.0749421282627
+          ],
+          [
+            -87.88552884804454,
+            43.05995187026254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#CAB2D6",
+        "stroke-width": 0,
+        "stroke-opacity": 0.4,
+        "direction": "UWM Union (Union)->RiverView Residence Hall (RVW)",
+        "flow": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8828423249452,
+            43.0749421282627
+          ],
+          [
+            -87.89545215697821,
+            43.060648489434065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#6A3D9A",
+        "stroke-width": 5,
+        "stroke-opacity": 0.4,
+        "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->Cambridge Commons (CC-S)",
+        "flow": 14
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87791680165286,
+            43.07941564922871
+          ],
+          [
+            -87.89195890443179,
+            43.0602355490372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#6A3D9A",
+        "stroke-width": 0,
+        "stroke-opacity": 0.4,
+        "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->Cambridge Commons - Northbound (CC-N)",
+        "flow": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87791680165286,
+            43.07941564922871
+          ],
+          [
+            -87.8917989365303,
+            43.060801016968036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#6A3D9A",
+        "stroke-width": 7,
+        "stroke-opacity": 0.4,
+        "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->Capitol and Humboldt Park and Ride (C/H)",
+        "flow": 51
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87791680165286,
+            43.07941564922871
+          ],
+          [
+            -87.9028010129797,
+            43.094042603657066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#6A3D9A",
+        "stroke-width": 9,
+        "stroke-opacity": 0.4,
+        "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->Kenilworth Square Apartments (KNW)",
+        "flow": 136
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87791680165286,
+            43.07941564922871
+          ],
+          [
+            -87.88552884804454,
+            43.05995187026254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#6A3D9A",
+        "stroke-width": 5,
+        "stroke-opacity": 0.4,
+        "direction": "Non-Peak Hours UWM KIRC (KIRC-S)->RiverView Residence Hall (RVW)",
+        "flow": 13
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.87791680165286,
+            43.07941564922871
+          ],
+          [
+            -87.89545215697821,
+            43.060648489434065
+          ]
+        ]
+      }
+    }
+  ]
+}

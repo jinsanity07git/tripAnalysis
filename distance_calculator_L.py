@@ -52,16 +52,18 @@ while None in dist_list:
 
     for i in  range(len(index_list)):
         row,col = index_list[i]
+        print('Filling None value in {}'.format((row,col)) )
         from_address = '{},{}'.format( df.loc[row,'lat'],df.loc[row,'lon'])
         to_address = '{},{}'.format( df.loc[col,'lat'],df.loc[col,'lon'])
         route = WazeRouteCalculator.WazeRouteCalculator(from_address, to_address, 'US')
         try: 
             route_time, route_distance = route.calc_route_info(time_delta=t_delta)
-        
+            print ('Blank in  {} has been filled '.format(index_list[i]))
         except:
             route_time, route_distance = None,None
-        dict_i.update({list_set[i] : route_distance} )
-        print ('Blank in  {} has been filled '.format(list_set[i]))
+        # index_list instead of list_set
+        dict_i.update({index_list[i] : route_distance} )
+
     dist_list = [i for i in  dict_i.values()]
     index_list = [ k for k,v in  dict_i.items() if v == None]
 

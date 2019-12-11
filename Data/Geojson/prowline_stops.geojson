@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "prowline_stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "Name": "Cunningham Hall (Cunn)" }, "geometry": { "type": "Point", "coordinates": [ -87.885342288428959, 43.077594619280418 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "UWM Golda Meir Library (Lib)" }, "geometry": { "type": "Point", "coordinates": [ -87.879940581615926, 43.077590899096649 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "Sandburg Residence Hall (Sand)" }, "geometry": { "type": "Point", "coordinates": [ -87.882738159800084, 43.078985968004957 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "UWM Union (Union)" }, "geometry": { "type": "Point", "coordinates": [ -87.882842324945202, 43.074942128262698 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Name": "Cambridge Commons (CC-S)" }, "geometry": { "type": "Point", "coordinates": [ -87.891958904431789, 43.060235549037202 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Name": "Cambridge Commons - Northbound (CC-N)" }, "geometry": { "type": "Point", "coordinates": [ -87.891798936530293, 43.060801016968036 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Name": "RiverView Residence Hall (RVW)" }, "geometry": { "type": "Point", "coordinates": [ -87.895452156978209, 43.060648489434065 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Name": "Kenilworth Square Apartments (KNW)" }, "geometry": { "type": "Point", "coordinates": [ -87.885528848044544, 43.059951870262537 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Name": "Capitol and Humboldt Park and Ride (C\/H)" }, "geometry": { "type": "Point", "coordinates": [ -87.902801012979694, 43.094042603657066 ] } }
+]
+}
