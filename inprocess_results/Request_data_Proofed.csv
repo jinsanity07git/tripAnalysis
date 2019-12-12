@@ -1,0 +1,131 @@
+street,state,city,county,country,postal_code,neighborhood,sublocality,housenumber,postal_town,subpremise,latitude,longitude,location_type,postal_code_suffix,street_number,address
+,Wisconsin,Milwaukee,Milwaukee County,United States,,,,,,,43.0389025,-87.9064736,APPROXIMATE,,,Kane and Arlington
+,Wisconsin,Milwaukee,Milwaukee County,United States,,,,,,,43.0389025,-87.9064736,APPROXIMATE,,,USR Surplus Dock
+,Wisconsin,Milwaukee,Milwaukee County,United States,,,,,,,43.0389025,-87.9064736,APPROXIMATE,,,Fresh Fin
+,Wisconsin,Milwaukee,Milwaukee County,United States,,,,,,,43.0389025,-87.9064736,APPROXIMATE,,,Collectivo - Lake
+,Wisconsin,Milwaukee,Milwaukee County,United States,53208,Concordia,,,,,43.0423713,-87.9543815,GEOMETRIC_CENTER,,,Camp
+,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Northpoint,,,,,43.0523441,-87.8911833,GEOMETRIC_CENTER,,,Brady and Prospect
+,Wisconsin,Milwaukee,Milwaukee County,United States,53212,Hillside,,,,,43.0552033,-87.9189842,GEOMETRIC_CENTER,,,Lapham
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.078263,-87.8819686,GEOMETRIC_CENTER,,,Union South
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.078263,-87.8819686,GEOMETRIC_CENTER,,,Up 
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.078263,-87.8819686,GEOMETRIC_CENTER,,,"1695 N Cass St, Milwaukee, WI 53202, USA"
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.078263,-87.8819686,GEOMETRIC_CENTER,,,"1320 WI-190, Shorewood, WI 53211, USA"
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.078263,-87.8819686,GEOMETRIC_CENTER,,,Upark
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.078263,-87.8819686,GEOMETRIC_CENTER,,,USR Parking
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.078263,-87.8819686,GEOMETRIC_CENTER,,,"1714 E Park Pl, Milwaukee, WI 53211, USA"
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.078263,-87.8819686,GEOMETRIC_CENTER,,,"707 E Brady St, Milwaukee, WI 53202, USA"
+West Arch Court,Wisconsin,Milwaukee,Milwaukee County,United States,53224,,,,,,43.1669496,-88.0471866,GEOMETRIC_CENTER,,,Arch Court
+MacArthur Boulevard,California,Oakland,Alameda County,United States,94619,Laurel,,,,,43.0755358,-87.8902495,Proofed,1327,3639,Domino's Pizza - Oakland
+,,,,,,,,,,,43.0634152,-87.8846875,Proofed,,104,Beans & Barley
+,,,,,,,,,,,43.0635337,-87.9465164,Proofed,1816,11514,Noodles & Company
+West Layton Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53207,Town of Lake,,,,,42.9595681,-87.9179738,ROOFTOP,5932,530,Oakland Gyros
+South 27th Street,Wisconsin,Milwaukee,Milwaukee County,United States,53221,Castle Manor,,,,,42.9600202,-87.9475463,ROOFTOP,,4640,Lubar
+South 27th Street,Wisconsin,Milwaukee,Milwaukee County,United States,53221,Southpoint,,,,,42.9786515,-87.9472466,ROOFTOP,,3632,Jimmy Johns - Brady
+East Greenfield Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53204,Harbor View,,,,,43.0172124,-87.9037553,ROOFTOP,2944,600,Freshwater
+South Cesar E Chavez Drive,Wisconsin,Milwaukee,Milwaukee County,United States,53204,Clarke Square,,,,,43.0204214,-87.9334103,ROOFTOP,,1035,Jalisco's
+West Freshwater Way,Wisconsin,Milwaukee,Milwaukee County,United States,53204,Walker's Point,,,,,43.0292381,-87.9136288,ROOFTOP,,247,Global Water Center
+North 5th Street,Wisconsin,Milwaukee,Milwaukee County,United States,53203,Westown,,,,,43.0352307,-87.9171589,ROOFTOP,,422,Stone Creek Coffee Shorewood
+West Wisconsin Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53233,Avenues West,,,,,43.038863,-87.938733,ROOFTOP,2098,2040,Sal's Pizza
+East Wisconsin Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,East Town,,,,,43.0389333,-87.9075873,ROOFTOP,,312,FedEx
+North Plankinton Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53203,Westown,,,,# 1200,43.039173,-87.9110965,ROOFTOP,2411,710,Zilber
+East Lyon Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0490284,-87.9040067,ROOFTOP,,605,Pick n Save
+East Brady Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0527304,-87.8946667,ROOFTOP,,1323,Jack's on Brady
+East Brady Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0527511,-87.9040954,ROOFTOP,,615,"615 E Brady St, Milwaukee, WI 53202, USA"
+East Brady Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.052776,-87.894284,ROOFTOP,1612,1339,Club Brady
+East Brady Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.052786,-87.894862,ROOFTOP,1612,1317,Rochambo
+East Brady Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0528092,-87.8938042,ROOFTOP,1614,1401,Nomad
+East Brady Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.052831,-87.895799,ROOFTOP,1602,1233,Cousin's - Brady
+North Arlington Place,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0530316,-87.8951274,ROOFTOP,,1701,Hi Hat
+East Brady Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0530799,-87.8997799,ROOFTOP,,932,Thainamite
+East Brady Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0531687,-87.8943681,ROOFTOP,,1320,Frozone
+East Brady Street,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.053175,-87.902409,ROOFTOP,,728,Casablanca
+North Commerce Street,Wisconsin,Milwaukee,Milwaukee County,United States,53212,Brewer's Hill,,,,,43.0541826,-87.9056667,ROOFTOP,,1858,1858 N Commerce St
+North Farwell Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.054621,-87.890963,ROOFTOP,,1827,Pizza Shuttle
+North Commerce Street,Wisconsin,Milwaukee,Milwaukee County,United States,53212,Brewer's Hill,,,,,43.0547262,-87.9052875,ROOFTOP,,1872,Lakefront Brewery
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0549488,-87.8916001,ROOFTOP,,1830,"1830 North Oakland Avenue, Milwaukee, Wisconsin 53202, United States"
+North Farwell Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0561684,-87.8894953,ROOFTOP,1409,1947,Comet Cafe
+East Kenilworth Place,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0590484,-87.8859985,ROOFTOP,1121,1915,Kenilworth
+North Prospect Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0590577,-87.8849585,ROOFTOP,,2211,Collectivo - Prospect
+East Kenilworth Place,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.059128,-87.886216,ROOFTOP,,1903,Toppers
+North Farwell Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0594679,-87.8859046,ROOFTOP,,2214,Ma Fischer's
+North Farwell Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0594862,-87.8862121,ROOFTOP,,2203,Yo Factory
+North Farwell Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.059687,-87.885641,ROOFTOP,,2220,Landmark Lanes
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0597133,-87.8878271,ROOFTOP,,2232,Chubbys
+North Farwell Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0599324,-87.8858835,ROOFTOP,,2235,Von Trier
+East North Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0599374,-87.884303,ROOFTOP,,2035,Ian's
+East North Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.059953,-87.884863,ROOFTOP,1127,2017,Hooligans
+East North Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Lower East Side,,,,,43.0599913,-87.8900349,ROOFTOP,,1609,7-Eleven - North
+East North Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Murray Hill,,,,,43.060283,-87.8870285,ROOFTOP,1124,1832,Vitucci's
+East North Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Murray Hill,,,,,43.0603473,-87.8877348,ROOFTOP,,1804,Insomnia Cookes
+North Prospect Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Murray Hill,,,,,43.0604306,-87.883781,ROOFTOP,,2305,Whole Foods
+East North Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Riverside Park,,,,,43.0608118,-87.8919305,ROOFTOP,,1440,Cambridge Commons
+North Lake Drive,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Northpoint,,,,,43.0608881,-87.8803217,ROOFTOP,,2301,Columbia St. Mary's - Main
+North Commerce Street,Wisconsin,Milwaukee,Milwaukee County,United States,53212,Riverwest,,,,,43.0609216,-87.8953035,ROOFTOP,,2340,Riverview
+North Lake Drive,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Historic Water Tower,,,,,43.063694,-87.876564,ROOFTOP,,2522,"2522 N Lake Dr, Milwaukee, WI 53211, USA"
+North Lake Drive,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Historic Water Tower,,,,,43.0639817,-87.8761417,ROOFTOP,3817,2550,"2550 N Lake Dr, Milwaukee, WI 53211, USA"
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Northpoint,,,,,43.065046,-87.878266,ROOFTOP,,2551,Starbucks - Downer
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Northpoint,,,,,43.0659346,-87.8782885,ROOFTOP,,2597,Pizza Man
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Historic Water Tower,,,,,43.0665232,-87.8778741,ROOFTOP,,2608,Cafe Hollander
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Northpoint,,,,,43.0670153,-87.8782972,ROOFTOP,4245,2643,Sendik's - Downer
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Historic Water Tower,,,,,43.0670958,-87.877837,ROOFTOP,,2650,Stone Creek - Downer
+East Park Place,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Riverside Park,,,,,43.0672438,-87.8886722,ROOFTOP,3539,1709,"1709 E Park Pl, Milwaukee, WI 53211, USA"
+East Park Place,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Murray Hill,,,,,43.067876,-87.887092,ROOFTOP,,1824,"1824 E Park Pl, Milwaukee, WI 53211, USA"
+North Bremen Street,Wisconsin,Milwaukee,Milwaukee County,United States,53212,Riverwest,,,,,43.067975,-87.900151,ROOFTOP,2606,2718,Foundation Bar
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Upper East Side,,,,,43.0701796,-87.8877313,ROOFTOP,,2830,Goodwill - Oakland
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Upper East Side,,,,,43.070453,-87.887553,ROOFTOP,3565,2844,Miramar Theatre
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Riverside Park,,,,,43.070576,-87.888128,ROOFTOP,3566,2851,Thai Kitchen
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Cambridge Woods,,,,,43.071279,-87.888097,ROOFTOP,,2907,Blaze Pizza
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Cambridge Woods,,,,,43.071544,-87.888294,ROOFTOP,3229,2921,Shawarma House
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Cambridge Woods,,,,,43.0721409,-87.888063,ROOFTOP,,2949,Knuckleheads
+North Prospect Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Upper East Side,,,,,43.0737517,-87.8800865,ROOFTOP,,3034,Zelazo Parking
+East Kenwood Boulevard,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Upper East Side,,,,,43.0742918,-87.8798681,ROOFTOP,,2419,Zelazo Front
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Cambridge Woods,,,,,43.0748027,-87.8880521,ROOFTOP,,3101,Qdoba
+East Burleigh Street,Wisconsin,Milwaukee,Milwaukee County,United States,53212,Riverwest,,,,,43.0748313,-87.9018767,ROOFTOP,2104,722,Art Bar
+East Kenwood Boulevard,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0749186,-87.8796285,ROOFTOP,,2442,Mellencamp Hall Parking
+East Kenwood Boulevard,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0749396,-87.8776564,ROOFTOP,,2600,Purin Hall
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0751744,-87.877669,ROOFTOP,,3116,Subway - Downer
+East Kenwood Boulevard,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0752308,-87.881425,ROOFTOP,,2200,Union North
+East Kenwood Boulevard,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Historic Water Tower,,,,,43.075247,-87.8685548,ROOFTOP,,3230,Alumni House
+East Kenwood Boulevard,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0752733,-87.8803897,ROOFTOP,,2200,Garage
+North Maryland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0753494,-87.8830974,ROOFTOP,,3101,KIRC Parking
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Cambridge Woods,,,,,43.0753936,-87.8880629,ROOFTOP,,3129,Jimmy Johns - Oakland
+North Maryland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0754651,-87.8838941,ROOFTOP,,3135,Physics Kenwood
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.075684,-87.8789516,ROOFTOP,,3203,Mitchell Hall
+North Cramer Street,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0759943,-87.8859982,ROOFTOP,,3200,EMS Cramer
+North Cramer Street,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0759943,-87.8859982,ROOFTOP,,3200,EMS Parking
+East Kenwood Boulevard,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0762464,-87.8802443,ROOFTOP,,2400,Music Building Parking
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0764916,-87.8785926,ROOFTOP,,3243,Curtin
+East Hartford Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0767674,-87.8807049,ROOFTOP,3175,2311,Library
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,Garland Hall,43.0770558,-87.8790209,ROOFTOP,,,Garland Hall
+North Lake Drive,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0771588,-87.873053,ROOFTOP,,3271,Hefter Center
+East Hartford Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0773463,-87.8842579,ROOFTOP,3154,2033,Englemann
+East Hartford Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.077349,-87.885709,ROOFTOP,,1921,Cunningham
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Cambridge Woods,,,,,43.0777702,-87.8882464,ROOFTOP,,3301,7-Eleven - Oakland
+East Hartford Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0780042,-87.8797914,ROOFTOP,,2400,Enderis
+East Hartford Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,Merrill Hall,43.0783696,-87.8785429,ROOFTOP,,2512,Merrill Hall
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0786469,-87.8795528,ROOFTOP,,3351,Norris Health Center
+North Frederick Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0787354,-87.8837889,ROOFTOP,2901,3400,Honor's College
+East Newport Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0789803,-87.8848207,ROOFTOP,,2025,NWQ
+North Maryland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0789822,-87.8822568,ROOFTOP,,3400,Sandburg
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0803017,-87.8796044,ROOFTOP,,3409,Klotsche
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0803017,-87.8796044,ROOFTOP,,3409,UWM Klotsche Center 
+North Oakland Avenue,Wisconsin,Shorewood,Milwaukee County,United States,53211,,,,,,43.0826122,-87.8872685,ROOFTOP,,3524,William Ho's
+East Capitol Drive,Wisconsin,Milwaukee,Milwaukee County,United States,53212,Williamsburg Heights,,,,,43.0876197,-87.9061765,ROOFTOP,,401,Walmart
+East Capitol Drive,Wisconsin,Milwaukee,Milwaukee County,United States,53212,Riverwest,,,,,43.087997,-87.902407,ROOFTOP,,709,Planet Fitness - Capitol
+East Capitol Drive,Wisconsin,Milwaukee,Milwaukee County,United States,53212,Williamsburg Heights,,,,,43.0888121,-87.9089016,ROOFTOP,,225,Aldi
+East Capitol Drive,Wisconsin,Shorewood,Milwaukee County,United States,53211,,,,,,43.0888653,-87.8947064,ROOFTOP,,1305,Corner Bakery
+West Capitol Drive,Wisconsin,Milwaukee,Milwaukee County,United States,53216,Garden Homes,,,,,43.0902689,-87.9474818,ROOFTOP,,2700,McDonalds - Capitol
+North Oakland Avenue,Wisconsin,Shorewood,Milwaukee County,United States,53211,,,,,,43.0916326,-87.8877604,ROOFTOP,,4075,Metro Market Shorewood
+North Oakland Avenue,Wisconsin,Shorewood,Milwaukee County,United States,53211,,,,,,43.0930027,-87.8877405,ROOFTOP,,4151,Mod Pizza
+North Oakland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.093328,-87.887202,ROOFTOP,,4170,Starbucks Shorewood
+West Fond Du Lac Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53216,Capitol Heights,,,,,43.0943643,-87.9825621,ROOFTOP,,5501,Culver's
+North Cramer Street,Wisconsin,Shorewood,Milwaukee County,United States,53211,,,,,,43.096415,-87.885835,ROOFTOP,1602,4424,"4424 North Cramer Street, Milwaukee, Wisconsin 53211, United States"
+North Oakland Avenue,Wisconsin,Shorewood,Milwaukee County,United States,53211,,,,,,43.0984067,-87.8871059,ROOFTOP,,4500,Colectivo - Shorewood
+North Teutonia Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53209,Old North Milwaukee,,,,,43.1115486,-87.9505332,ROOFTOP,,5191,McDonald's - North
+,,,,,,,,,,,43.0663893,-87.9058075,Proofed,,,"2480 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States"
+,,,,,,,,,,,43.0664751,-87.9242618,Proofed,,,WalgreensÛÒOakland
+,,,,,,,,,,,43.0525161,-87.8944854,Proofed,,,CVSÛÒBrady
+,,,,,,,,,,,43.0531275,-87.8958168,Proofed,,,WalgreensÛÒBrady
+,,,,,,,,,,,43.0666395,-87.8817847,Proofed,,,BelAirÛÒDowner
+,,,,,,,,,,,43.0664334,-87.8803939,Proofed,,,CVSÛÒDowner
+,,,,,,,,,,,43.0531887,-87.9043086,Proofed,,,BelAirÛÒHumbolt
