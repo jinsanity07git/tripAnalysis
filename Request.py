@@ -42,13 +42,20 @@ def address_resolver(json):
         final['street_number'] = data.get('street_number', None)
     return final
 
-def get_address_details(address,):
+
+def get_address_details(address, 
+                        dictAB= {"A": "UW-Milwaukee", "B": "UWM"},
+                        Choice="A"):
     url = 'https://maps.googleapis.com/maps/api/geocode/json?components=&language=&region=&bounds=&key='+ API_KEY
-    url = url + '&address='+ address.replace(" ","+")
+    AdditionAddress = address + dictAB[Choice]
+    url = url + '&address='+ AdditionAddress.replace(" ","+")
     response = get(url)
     data  = address_resolver(response.json())
-    data['address'] = address
+    data['address'] = address 
     return data
+
+get_address_details("sandburg ")
+
 
 if __name__ == '__main__':
     """
@@ -56,11 +63,13 @@ if __name__ == '__main__':
     """
     start = time.time()
     print("hello")
+    dictAB = {"A": "UW-Milwaukee", "B": "UWM"}
+    Choice = "B"
 
     Rela_ad = 'inprocess_results/'
     path = Rela_ad + 'outliers.csv'
 
-    outfile01 = Rela_ad + "Request_data_test.csv"
+    outfile01 = Rela_ad + "Request_data_test" + Choice  +".csv"
 
     df = pd.read_csv(path,delimiter='\n', header= None)
     address_to_search = list(df[0])
@@ -68,8 +77,8 @@ if __name__ == '__main__':
     # address_to_search = ['Starbucks - Downer']
     data = []
     for i in address_to_search:
+        data.append(get_address_details(i,dictAB,Choice ))
         
-        data.append(get_address_details(i))
     with open(outfile01,'w') as csvfile:
         csvwriter = DictWriter(csvfile, fieldnames=data[0].keys(), quoting=QUOTE_ALL)
         csvwriter.writeheader()
