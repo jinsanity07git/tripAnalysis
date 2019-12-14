@@ -92,7 +92,7 @@
 90,2/10/19 22:37,1,"2505 East Bradford Avenue, Milwaukee, Wisconsin 53211, United States","3054 North Downer Avenue, Milwaukee, Wisconsin 53211, United States",2/10/19 22:41,,,,yes,I'm not ready to go,43.073996,-87.87757099999999
 91,2/10/19 22:39,1,Metro Market Shorewood,Sandburg,,2/10/19 23:05,2/10/19 23:11,26.0,no,,,Sandburg
 92,2/10/19 22:39,1,Library,"3012 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",,2/10/19 22:59,2/10/19 23:01,20.0,no,,43.073166,-87.882554
-93,2/10/19 22:39,2,"Ian's Pizza, 2035 E North Ave, Milwaukee, Wisconsin, United States, 53202","3047 North Cramer Street, Milwaukee, Wisconsin 53211, United States",2/10/19 22:40,,,,yes,I've had a change in my plans,"3047 North Cramer Street, Milwaukee, Wisconsin 53211, United States",
+93,2/10/19 22:39,2,"Ian's Pizza, 2035 E North Ave, Milwaukee, Wisconsin, United States, 53202","3047 North Cramer Street, Milwaukee, Wisconsin 53211, United States",2/10/19 22:40,,,,yes,I've had a change in my plans,43.073828,-87.88700299999999
 94,2/10/19 22:42,1,"2505 East Bradford Avenue, Milwaukee, Wisconsin 53211, United States","3054 North Downer Avenue, Milwaukee, Wisconsin 53211, United States",2/10/19 22:43,,,,yes,I'm not ready to go,43.073996,-87.87757099999999
 95,2/10/19 22:43,1,"1824 East Park Place, Milwaukee, Wisconsin 53211, United States",Union North,2/10/19 22:43,,,,yes,I'm not ready to go,,Union North
 96,2/10/19 22:44,1,Klotsche,"1816 East Kane Place, Milwaukee, Wisconsin 53202, United States",,2/10/19 23:01,2/10/19 23:10,17.0,no,,43.0544318,-87.8882265
@@ -358,7 +358,7 @@
 356,2/11/19 18:26,1,"2508 East Belleview Place, Milwaukee, Wisconsin 53211, United States","3132 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/11/19 18:53,2/11/19 18:58,27.0,no,,43.0754393,-87.8876183
 357,2/11/19 18:27,1,Metro Market Shorewood,"2917 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",2/11/19 19:31,,,,no,No show,43.071441,-87.883354
 358,2/11/19 18:27,1,EMS Parking,"2563 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",,2/11/19 18:53,2/11/19 18:57,26.0,no,,43.0652673,-87.88942449999999
-359,2/11/19 18:27,2,"2953 N Downer Ave, Milwaukee, WI 53211, USA","Harry's Bar & Grill, 3549 N Oakland Ave, Shorewood, Wisconsin, United States, 53211",2/11/19 18:39,,,,yes,Wait time is too long,"Harry's Bar & Grill, 3549 N Oakland Ave, Shorewood, Wisconsin, United States, 53211",
+359,2/11/19 18:27,2,"2953 N Downer Ave, Milwaukee, WI 53211, USA","Harry's Bar & Grill, 3549 N Oakland Ave, Shorewood, Wisconsin, United States, 53211",2/11/19 18:39,,,,yes,Wait time is too long,43.08292100000001,-87.88792099999999
 360,2/11/19 18:28,1,Lubar,"1805 E Park Pl, Milwaukee, WI 53211, USA",,2/11/19 19:00,2/11/19 19:15,32.0,no,,43.0672283,-87.8875597
 361,2/11/19 18:28,1,"Clark Graphics, 2915 N Oakland Ave, Milwaukee, Wisconsin, United States, 53211","3372 North Downer Avenue, Milwaukee, Wisconsin 53211, United States",,2/11/19 18:55,2/11/19 18:59,27.0,no,,43.079138,-87.8774339
 362,2/11/19 18:28,1,Union North,Walmart,2/11/19 19:06,,,,no,No show,,Walmart
@@ -730,12 +730,12 @@
 728,2/11/19 22:12,2,Walmart,Sandburg,,2/11/19 22:39,2/11/19 22:46,26.0,no,,,Sandburg
 729,2/11/19 22:21,1,Union North,"1710 East Providence Avenue, Milwaukee, Wisconsin 53211, United States",,2/11/19 22:24,2/11/19 22:28,3.0,no,,43.0816321,-87.8884704
 730,2/11/19 22:21,1,Klotsche,"2750 N Murray Ave, Milwaukee, WI 53211, USA",,2/11/19 22:51,2/11/19 23:00,29.0,no,,43.0685337,-87.8851867
-731,2/11/19 22:22,1,Klotsche,"3034 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",,2/11/19 22:52,2/11/19 22:58,30.0,no,,"3034 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",
+731,2/11/19 22:22,1,Klotsche,"3034 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",,2/11/19 22:52,2/11/19 22:58,30.0,no,,43.073566,-87.8837999
 732,2/11/19 22:25,1,Klotsche,"1707 N Prospect Ave, Milwaukee, WI 53202, USA",2/11/19 22:39,,,,yes,Wait time is too long,43.0526683,-87.8912934
 733,2/11/19 22:25,1,EMS Parking,"3480 North Downer Avenue, Milwaukee, Wisconsin 53211, United States",2/11/19 22:29,,,,yes,I'm not ready to go,43.081359,-87.877372
 734,2/11/19 22:27,1,Library,"621 East Locust Street, Milwaukee, Wisconsin 53212, United States",,2/11/19 22:53,2/11/19 23:02,26.0,no,,43.0710149,-87.9033826
 735,2/11/19 22:29,1,Klotsche,"3363 North Cramer Street, Milwaukee, Wisconsin 53211, United States",2/11/19 22:30,,,,yes,I'm not ready to go,43.078972,-87.88687
-736,2/11/19 22:31,1,Cambridge Commons,"2822 North 1st Street, Milwaukee, Wisconsin 53212, United States",,2/11/19 22:56,2/11/19 23:05,24.0,no,,"2822 North 1st Street, Milwaukee, Wisconsin 53212, United States",
+736,2/11/19 22:31,1,Cambridge Commons,"2822 North 1st Street, Milwaukee, Wisconsin 53212, United States",,2/11/19 22:56,2/11/19 23:05,24.0,no,,43.0697768,-87.91060999999999
 737,2/11/19 22:32,1,Klotsche,"3363 North Cramer Street, Milwaukee, Wisconsin 53211, United States",2/11/19 22:32,,,,yes,I'm not ready to go,43.078972,-87.88687
 738,2/11/19 22:34,1,"2728 North Downer Avenue, Milwaukee, Wisconsin 53211, United States",sandburg,,2/11/19 22:50,2/11/19 23:02,16.0,no,,,sandburg
 739,2/11/19 22:36,1,"2925 North Murray Avenue, Milwaukee, Wisconsin 53211, United States","2505 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",,2/11/19 22:50,2/11/19 22:54,14.0,no,,43.0639562,-87.8846258
@@ -1933,7 +1933,7 @@
 1931,2/14/19 20:44,2,"2971 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",Cafe Hollander,,2/14/19 21:09,2/14/19 21:13,25.0,no,,,Cafe Hollander
 1932,2/14/19 20:44,3,Noodles & Company,Sandburg,,2/14/19 20:58,2/14/19 21:01,14.0,no,,,Sandburg
 1933,2/14/19 20:44,1,"3002 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",Riverview,2/14/19 20:44,,,,yes,It took too long to receive my ETA,,Riverview
-1934,2/14/19 20:45,2,Sandburg,"2544 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",2/14/19 20:48,,,,yes,I'm not ready to go,"2544 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",
+1934,2/14/19 20:45,2,Sandburg,"2544 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",2/14/19 20:48,,,,yes,I'm not ready to go,43.06470119999999,-87.88389409999999
 1935,2/14/19 20:45,1,"2900 North Newhall Street, Milwaukee, Wisconsin 53211, United States",Sandburg,,2/14/19 21:13,2/14/19 21:23,28.0,no,,,Sandburg
 1936,2/14/19 20:46,3,Cambridge Commons,"2859 North Cramer Street, Milwaukee, Wisconsin 53211, United States",2/14/19 20:46,,,,yes,I've had a change in my plans,43.070782,-87.88705
 1937,2/14/19 20:47,1,EMS Parking,"2612 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",,2/14/19 21:06,2/14/19 21:09,19.0,no,,43.0663463,-87.8826672
@@ -2515,7 +2515,7 @@
 2513,2/15/19 19:29,1,"3118 North Downer Avenue, Milwaukee, Wisconsin 53211, United States","3029 N Cramer St, Milwaukee, WI 53211, USA",,2/15/19 19:37,2/15/19 19:39,7.0,no,,43.073497,-87.88700899999999
 2514,2/15/19 19:29,1,Klotsche,"1809 E Belleview Pl, Milwaukee, WI 53211, USA",,2/15/19 19:43,2/15/19 19:49,14.0,no,,43.065895,-87.887559
 2515,2/15/19 19:32,3,Sandburg,Goodwill - Oakland,,2/15/19 19:33,2/15/19 19:38,0.0,no,,,Goodwill - Oakland
-2516,2/15/19 19:32,1,Klotsche,"3070 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/15/19 19:40,2/15/19 19:44,8.0,no,,"3070 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",
+2516,2/15/19 19:32,1,Klotsche,"3070 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/15/19 19:40,2/15/19 19:44,8.0,no,,43.074378,-87.8876322
 2517,2/15/19 19:33,1,Klotsche,"2968 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/15/19 19:40,2/15/19 19:45,7.0,no,,43.0725196,-87.88752470000001
 2518,2/15/19 19:33,1,"3334 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States","2605 North Prospect Avenue, Milwaukee, Wisconsin 53211, United States",2/15/19 19:33,,,,yes,I've had a change in my plans,43.0662953,-87.8807325
 2519,2/15/19 19:34,2,"UWM Purin Hall, 2600 E Kenwood Blvd, Milwaukee, Wisconsin, United States, 53211","Brady Steet Path, 1698 N Prospect Ave., Milwaukee, Wisconsin, United States, 53202",2/15/19 19:34,,,,yes,I'm not ready to go,43.0523471,-87.8911893
@@ -2809,7 +2809,7 @@
 2807,2/15/19 22:40,1,Jack's on Brady,"2972 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",2/15/19 22:40,,,,yes,I'm not ready to go,43.072536,-87.883815
 2808,2/15/19 22:40,5,"2940 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States","George Webb Restaurants, 2935 N Oakland Ave, Milwaukee, Wisconsin, United States, 53211",2/15/19 22:51,,,,yes,I've had a change in my plans,43.0718176,-87.8881595
 2809,2/15/19 22:41,2,Sandburg,"2914 North Cramer Street, Milwaukee, Wisconsin 53211, United States",,2/15/19 23:20,2/15/19 23:23,39.0,no,,43.071397,-87.88632199999999
-2810,2/15/19 22:41,5,Sandburg,"2914 North Cramer Street, Milwaukee, Wisconsin 53211, United States",,2/15/19 23:08,2/15/19 23:11,27.0,no,,"2914 North Cramer Street, Milwaukee, Wisconsin 53211, United States",
+2810,2/15/19 22:41,5,Sandburg,"2914 North Cramer Street, Milwaukee, Wisconsin 53211, United States",,2/15/19 23:08,2/15/19 23:11,27.0,no,,43.071397,-87.88632199999999
 2811,2/15/19 22:41,1,"3039 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",Cambridge Commons,,2/15/19 23:18,2/15/19 23:27,37.0,no,,,Cambridge Commons
 2812,2/15/19 22:42,2,"3975 North Cramer Street, Milwaukee, Wisconsin 53211, United States","2545 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",,2/15/19 23:29,2/15/19 23:35,47.0,no,,43.0647181,-87.8848143
 2813,2/15/19 22:42,6,Sandburg,"George Webb Restaurants, 2935 N Oakland Ave, Milwaukee, Wisconsin, United States, 53211",,2/15/19 23:31,2/15/19 23:33,49.0,no,,43.0718176,-87.8881595
@@ -3432,7 +3432,7 @@
 3430,2/16/19 22:45,2,Walmart,"2612 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",2/16/19 23:06,,,,yes,I'm not ready to go,43.0663463,-87.8826672
 3431,2/16/19 22:46,1,"Blaze Pizza, 2907 N Oakland Ave, Milwaukee, Wisconsin, United States, 53211",Sandburg,,2/16/19 23:27,2/16/19 23:30,41.0,no,,,Sandburg
 3432,2/16/19 22:47,1,Metro Market Shorewood,"1702 East Bradford Avenue, Milwaukee, Wisconsin 53211, United States",2/16/19 22:58,,,,yes,I'm not ready to go,43.0639056,-87.8890509
-3433,2/16/19 22:49,3,"2862 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States","2013 East Menlo Boulevard, Milwaukee, Wisconsin 53211, United States",,2/16/19 23:29,2/16/19 23:33,40.0,no,,43.0839825,-87.88445010000001
+3433,2/16/19 22:49,3,"2862 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States","2013 East Menlo Boulevard, Milwaukee, Wisconsin 53211, United States",,2/16/19 23:29,2/16/19 23:33,40.0,no,,"2013 East Menlo Boulevard, Milwaukee, Wisconsin 53211, United States",
 3434,2/16/19 22:50,2,Sandburg,"2862 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",2/16/19 23:05,,,,yes,I've had a change in my plans,43.070774,-87.88880100000002
 3435,2/16/19 22:54,3,"3123 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States","2619 North Murray Avenue, Milwaukee, Wisconsin 53211, United States",2/16/19 23:15,,,,yes,I'm not ready to go,43.0665921,-87.8857545
 3436,2/16/19 22:54,3,"1720 East Newton Avenue, Milwaukee, Wisconsin 53211, United States",Jimmy Johns - Brady,2/16/19 23:00,,,,yes,I've had a change in my plans,,Jimmy Johns - Brady
@@ -3826,7 +3826,7 @@
 3824,2/17/19 19:57,2,"2105 East Kenwood Boulevard, Milwaukee, Wisconsin 53211, United States","3445 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",2/17/19 20:03,,,,yes,I've had a change in my plans,43.0805063,-87.8880731
 3825,2/17/19 19:59,1,Kenilworth,"2903 North Murray Avenue, Milwaukee, Wisconsin 53211, United States",2/17/19 20:51,,,,yes,Wait time is too long,43.07135100000001,-87.8856813
 3826,2/17/19 20:03,1,"Daync Studio MKE, 910 E Hamilton St, Milwaukee, Wisconsin, United States, 53202","UWM Sandburg Hall, 3400 N Maryland Ave, Milwaukee, Wisconsin, United States, 53211",2/17/19 20:04,,,,yes,Wait time is too long,43.0789822,-87.8822568
-3827,2/17/19 20:03,1,"3055 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States","2619 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/17/19 20:57,2/17/19 21:00,53.0,no,,43.066641,-87.88837989999999
+3827,2/17/19 20:03,1,"3055 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States","2619 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/17/19 20:57,2/17/19 21:00,53.0,no,,"2619 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",
 3828,2/17/19 20:04,1,Arch Court,"2526 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States",,2/17/19 21:06,2/17/19 21:12,61.0,no,,43.0643941,-87.88144899999999
 3829,2/17/19 20:05,1,"3975 North Cramer Street, Milwaukee, Wisconsin 53211, United States","2213 East Kenwood Boulevard, Milwaukee, Wisconsin 53211, United States",,2/17/19 21:04,2/17/19 21:11,59.0,no,,43.07434300000001,-87.8823589
 3830,2/17/19 20:05,1,"3055 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",Von Trier,2/17/19 21:16,,,,no,No show,,Von Trier
@@ -4013,7 +4013,7 @@
 4011,2/17/19 23:57,1,"3014 North Shepard Avenue, Milwaukee, Wisconsin 53211, United States","2526 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:02,2/18/19 0:06,4.0,no,,43.0643941,-87.88144899999999
 4012,2/17/19 23:58,2,"3372 North Downer Avenue, Milwaukee, Wisconsin 53211, United States","3400 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:02,2/18/19 0:04,3.0,no,,43.0792179,-87.8819003
 4013,2/17/19 23:58,1,Columbia St. Mary's - Main,"2959 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:05,2/18/19 0:11,7.0,no,,43.07229299999999,-87.88333899999999
-4014,2/17/19 23:59,1,Sandburg,"1614 East North Avenue, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:04,2/18/19 0:12,5.0,no,,"1614 East North Avenue, Milwaukee, Wisconsin 53211, United States",
+4014,2/17/19 23:59,1,Sandburg,"1614 East North Avenue, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:04,2/18/19 0:12,5.0,no,,43.060374,-87.88976
 4015,2/17/19 23:59,1,USR Parking,"3839 North Humboldt Boulevard, Milwaukee, Wisconsin 53212, United States",,2/18/19 0:10,2/18/19 0:16,11.0,no,,43.0869738,-87.8980919
 4016,2/17/19 23:59,1,"2550 N Lake Dr, Milwaukee, WI 53211, USA","2860 North Cramer Street, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:10,2/18/19 0:15,10.0,no,,43.0707853,-87.8864849
 4017,2/18/19 0:01,1,Sandburg,"Pizza Hut, 2340 N Farwell Ave, Milwaukee, Wisconsin, United States, 53211",,2/18/19 0:05,2/18/19 0:10,3.0,no,,43.0608357,-87.88429269999999
@@ -4021,7 +4021,7 @@
 4019,2/18/19 0:06,1,Sandburg,Oakland Gyros,,2/18/19 0:09,2/18/19 0:12,3.0,no,,,Oakland Gyros
 4020,2/18/19 0:11,1,"3218 North Marietta Avenue, Milwaukee, Wisconsin 53211, United States",Sandburg,2/18/19 0:11,,,,yes,I'm not ready to go,,Sandburg
 4021,2/18/19 0:11,2,Sandburg,"2925 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:23,2/18/19 0:25,11.0,no,,43.0715948,-87.8833263
-4022,2/18/19 0:12,1,"3552 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States","2222 East Belleview Place, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:19,2/18/19 0:31,6.0,no,,43.0661276,-87.8821462
+4022,2/18/19 0:12,1,"3552 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States","2222 East Belleview Place, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:19,2/18/19 0:31,6.0,no,,"2222 East Belleview Place, Milwaukee, Wisconsin 53211, United States",
 4023,2/18/19 0:13,1,Lapham,"1522 East Newport Avenue, Milwaukee, Wisconsin 53211, United States",,2/18/19 0:31,2/18/19 0:35,18.0,no,,43.0796212,-87.89043079999999
 4024,2/18/19 0:14,1,Sandburg,"3079 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",2/18/19 0:14,,,,yes,I'm not ready to go,43.0745328,-87.8893478
 4025,2/18/19 0:15,1,Klotsche,"3955 N Murray Ave, Shorewood, WI 53211, USA",,2/18/19 0:25,2/18/19 0:25,9.0,no,,43.0889751,-87.8853879
@@ -4332,7 +4332,7 @@
 4330,2/18/19 19:29,3,Cunningham,Noodles & Company,2/18/19 19:35,,,,yes,Wait time is too long,,Noodles & Company
 4331,2/18/19 19:31,1,Library,"2563 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",2/18/19 19:44,,,,yes,I've had a change in my plans,43.0652673,-87.88942449999999
 4332,2/18/19 19:33,2,Noodles & Company,Sandburg,,2/18/19 19:58,2/18/19 20:12,25.0,no,,,Sandburg
-4333,2/18/19 19:35,1,"2926 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States","2416 North Humboldt Boulevard, Milwaukee, Wisconsin 53212, United States",,2/18/19 20:05,2/18/19 20:14,29.0,no,,"2416 North Humboldt Boulevard, Milwaukee, Wisconsin 53212, United States",
+4333,2/18/19 19:35,1,"2926 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States","2416 North Humboldt Boulevard, Milwaukee, Wisconsin 53212, United States",,2/18/19 20:05,2/18/19 20:14,29.0,no,,43.062439,-87.897488
 4334,2/18/19 19:35,1,Garland Hall,"3700 North Morris Boulevard, Milwaukee, Wisconsin 53211, United States",,2/18/19 20:28,2/18/19 20:33,52.0,no,,43.0852024,-87.8908019
 4335,2/18/19 19:35,1,"2934 North Bremen Street, Milwaukee, Wisconsin 53212, United States",Library,2/18/19 19:36,,,,yes,Wait time is too long,,Library
 4336,2/18/19 19:36,1,"2634 North Murray Avenue, Milwaukee, Wisconsin 53211, United States","3357 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",2/18/19 19:36,,,,yes,Wait time is too long,43.0789051,-87.8880635
@@ -5625,7 +5625,7 @@
 5623,2/20/19 20:03,1,Cunningham,"1022 East Pearson Street, Milwaukee, Wisconsin 53202, United States",,2/20/19 20:26,2/20/19 20:39,23.0,no,,43.0538655,-87.8987104
 5624,2/20/19 20:03,1,Arch Court,"2822 North 1st Street, Milwaukee, Wisconsin 53212, United States",,2/20/19 20:21,2/20/19 20:31,17.0,no,,43.0697768,-87.91060999999999
 5625,2/20/19 20:04,1,Library,"3000 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",2/20/19 20:04,,,,yes,I've had a change in my plans,43.0729619,-87.88381
-5626,2/20/19 20:05,1,"3496 North Cramer Street, Milwaukee, Wisconsin 53211, United States","3022 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",,2/20/19 20:21,2/20/19 20:25,16.0,no,,"3022 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",
+5626,2/20/19 20:05,1,"3496 North Cramer Street, Milwaukee, Wisconsin 53211, United States","3022 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",,2/20/19 20:21,2/20/19 20:25,16.0,no,,43.07334700000001,-87.883804
 5627,2/20/19 20:08,2,Sandburg,"3079 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",,2/20/19 20:21,2/20/19 20:23,13.0,no,,43.0745328,-87.8893478
 5628,2/20/19 20:08,2,Blaze Pizza,Sandburg,,2/20/19 20:27,2/20/19 20:31,18.0,no,,,Sandburg
 5629,2/20/19 20:09,1,Klotsche,"2126 North Oakland Avenue, Milwaukee, Wisconsin 53202, United States",2/20/19 20:14,,,,yes,I'm not ready to go,43.058566,-87.888133
@@ -6612,7 +6612,7 @@
 6610,2/22/19 0:02,1,NWQ,"3554 North Prospect Avenue, Milwaukee, Wisconsin 53211, United States",,2/22/19 0:05,2/22/19 0:10,2.0,no,,43.0836342,-87.87990769999999
 6611,2/22/19 0:04,2,Arch Court,"3481 North Cramer Street, Milwaukee, Wisconsin 53211, United States",2/22/19 0:04,,,,yes,I'm not ready to go,43.081441,-87.8867999
 6612,2/22/19 0:05,1,"1922 East Belleview Place, Milwaukee, Wisconsin 53211, United States","3118 North Downer Avenue, Milwaukee, Wisconsin 53211, United States",2/22/19 0:06,,,,yes,Wait time is too long,43.0751623,-87.8776705
-6613,2/22/19 0:06,1,Library,"3045 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/22/19 0:10,2/22/19 0:12,3.0,no,,43.073893,-87.88826499999999
+6613,2/22/19 0:06,1,Library,"3045 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/22/19 0:10,2/22/19 0:12,3.0,no,,"3045 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",
 6614,2/22/19 0:06,1,NWQ,"3939 North Murray Avenue, Milwaukee, Wisconsin 53211, United States",,2/22/19 0:09,2/22/19 0:15,3.0,no,,43.0885042,-87.8853034
 6615,2/22/19 0:06,2,"2932 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",Vitucci's,2/22/19 0:13,,,,no,No show,,Vitucci's
 6616,2/22/19 0:07,2,Arch Court,"3481 North Cramer Street, Milwaukee, Wisconsin 53211, United States",,2/22/19 0:11,2/22/19 0:12,4.0,no,,43.081441,-87.8867999
@@ -6641,7 +6641,7 @@
 6639,2/22/19 0:24,1,"3036 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States","2115 East Kenwood Boulevard, Milwaukee, Wisconsin 53211, United States",,2/22/19 0:27,2/22/19 0:29,3.0,no,,43.07446789999999,-87.88364
 6640,2/22/19 0:24,1,"2737 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States","1708 N Arlington Pl, Milwaukee, WI 53202, USA",,2/22/19 0:34,2/22/19 0:45,9.0,no,,43.05323449999999,-87.89484999999999
 6641,2/22/19 0:25,1,Sandburg,"2925 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",,2/22/19 0:28,2/22/19 0:37,3.0,no,,43.0715948,-87.8833263
-6642,2/22/19 0:27,1,"2523 East Belleview Place, Milwaukee, Wisconsin 53211, United States","1915 North Prospect Avenue, Milwaukee, Wisconsin 53202, United States",,2/22/19 0:34,2/22/19 0:39,7.0,no,,"1915 North Prospect Avenue, Milwaukee, Wisconsin 53202, United States",
+6642,2/22/19 0:27,1,"2523 East Belleview Place, Milwaukee, Wisconsin 53211, United States","1915 North Prospect Avenue, Milwaukee, Wisconsin 53202, United States",,2/22/19 0:34,2/22/19 0:39,7.0,no,,43.055207,-87.88914659999999
 6643,2/22/19 0:27,1,USR Parking,"2619 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/22/19 0:36,2/22/19 0:44,8.0,no,,43.066641,-87.88837989999999
 6644,2/22/19 0:28,1,"3209 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States","2932 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",,2/22/19 0:35,2/22/19 0:37,6.0,no,,43.071756,-87.88382899999999
 6645,2/22/19 0:29,1,"2323 North Cambridge Avenue, Milwaukee, Wisconsin 53211, United States","3429 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",2/22/19 0:29,,,,yes,I'm not ready to go,43.0802,-87.88930099999999
@@ -6833,7 +6833,7 @@
 6831,2/22/19 18:35,1,"3107 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",Zelazo Front,2/22/19 18:42,,,,yes,Wait time is too long,,Zelazo Front
 6832,2/22/19 18:35,1,Kenilworth,"2924 N Stowell Ave, Milwaukee, WI 53211, USA",2/22/19 18:53,,,,yes,I've had a change in my plans,43.0716059,-87.87890490000001
 6833,2/22/19 18:35,2,Sandburg,"Wings Over Milwaukee, 1434 E Brady St, Milwaukee, Wisconsin 53202, United States",,2/22/19 19:28,2/22/19 19:37,53.0,no,,43.05344119999999,-87.89275479999999
-6834,2/22/19 18:35,2,"2425 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States","Fuel Cafe, 818 E Center St, Milwaukee, Wisconsin, United States, 53212",,2/22/19 19:23,2/22/19 19:28,48.0,no,,43.0676412,-87.9009152
+6834,2/22/19 18:35,2,"2425 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States","Fuel Cafe, 818 E Center St, Milwaukee, Wisconsin, United States, 53212",,2/22/19 19:23,2/22/19 19:28,48.0,no,,"Fuel Cafe, 818 E Center St, Milwaukee, Wisconsin, United States, 53212",
 6835,2/22/19 18:36,1,Sandburg,Noodles & Company,,2/22/19 19:21,2/22/19 19:29,45.0,no,,,Noodles & Company
 6836,2/22/19 18:36,2,Lubar,"1809 E Belleview Pl, Milwaukee, WI 53211, USA",,2/22/19 19:21,2/22/19 19:29,44.0,no,,43.065895,-87.887559
 6837,2/22/19 18:37,1,"2637 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States","1914 East Newberry Boulevard, Milwaukee, Wisconsin 53211, United States",2/22/19 18:43,,,,yes,Wait time is too long,43.069711,-87.886197
@@ -8621,9 +8621,9 @@
 8619,2/25/19 18:24,1,Library,USR Parking,2/25/19 18:25,,,,yes,Wait time is too long,,USR Parking
 8620,2/25/19 18:25,1,Lapham,"2466 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/25/19 18:48,2/25/19 18:52,23.0,no,,43.063139,-87.887658
 8621,2/25/19 18:25,1,EMS Cramer,"2595 North Cramer Street, Milwaukee, Wisconsin 53211, United States",2/25/19 18:31,,,,yes,Wait time is too long,43.0659346,-87.8871293
-8622,2/25/19 18:25,1,"2912 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States","Oriental Theatre, 2230 N Farwell Ave, Milwaukee, Wisconsin, United States, 53202",2/25/19 18:41,,,,yes,Wait time is too long,"Oriental Theatre, 2230 N Farwell Ave, Milwaukee, Wisconsin, United States, 53202",
+8622,2/25/19 18:25,1,"2912 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States","Oriental Theatre, 2230 N Farwell Ave, Milwaukee, Wisconsin, United States, 53202",2/25/19 18:41,,,,yes,Wait time is too long,43.0597851,-87.88553230000001
 8623,2/25/19 18:26,1,Zelazo Front,"2612 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",2/25/19 18:29,,,,yes,It took too long to receive my ETA,43.0663463,-87.8826672
-8624,2/25/19 18:26,2,Library,"2627 North Prospect Avenue, Milwaukee, Wisconsin 53211, United States",2/25/19 18:49,,,,yes,It took too long to receive my ETA,43.066747,-87.880949
+8624,2/25/19 18:26,2,Library,"2627 North Prospect Avenue, Milwaukee, Wisconsin 53211, United States",2/25/19 18:49,,,,yes,It took too long to receive my ETA,"2627 North Prospect Avenue, Milwaukee, Wisconsin 53211, United States",
 8625,2/25/19 18:27,1,Klotsche,"1800 East Capitol Drive, Milwaukee, Wisconsin 53211, United States",,2/25/19 18:57,2/25/19 19:00,29.0,no,,43.0893703,-87.8871388
 8626,2/25/19 18:27,1,Union South,"1806 East Park Place, Milwaukee, Wisconsin 53211, United States",,2/25/19 18:47,2/25/19 18:52,19.0,no,,43.067593,-87.88759399999999
 8627,2/25/19 18:28,1,"The Halal Guys, 3133 N Oakland Ave, Milwaukee, Wisconsin, United States, 53211","3953 North Maryland Avenue, Milwaukee, Wisconsin 53211, United States",,2/25/19 18:58,2/25/19 19:03,29.0,no,,43.088942,-87.88283899999999
@@ -8646,7 +8646,7 @@
 8644,2/25/19 18:39,1,Sandburg,"3201 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",2/25/19 19:27,,,,no,No show,43.075792,-87.889425
 8645,2/25/19 18:39,1,Music Building Parking,"2720 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",2/25/19 19:17,,,,yes,Wait time is too long,43.0678689,-87.883766
 8646,2/25/19 18:39,1,"2545 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States","3975 North Cramer Street, Milwaukee, Wisconsin 53211, United States",2/25/19 18:48,,,,yes,I'm not ready to go,43.0889669,-87.8865957
-8647,2/25/19 18:40,1,"3950 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States","Downer Theater, 2589 N Downer Ave, Milwaukee, Wisconsin 53211, United States",2/25/19 19:30,,,,no,No show,43.0657872,-87.8782219
+8647,2/25/19 18:40,1,"3950 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States","Downer Theater, 2589 N Downer Ave, Milwaukee, Wisconsin 53211, United States",2/25/19 19:30,,,,no,No show,"Downer Theater, 2589 N Downer Ave, Milwaukee, Wisconsin 53211, United States",
 8648,2/25/19 18:41,2,"Qdoba Mexican Grill, 3101 N Oakland Ave, Milwaukee, Wisconsin, United States, 53211",Sandburg,,2/25/19 19:32,2/25/19 19:36,50.0,no,,,Sandburg
 8649,2/25/19 18:41,2,"3650 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",Culver's,,2/25/19 19:31,2/25/19 19:33,49.0,no,,,Culver's
 8650,2/25/19 18:41,1,Lubar,"2866 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",2/25/19 19:01,,,,yes,Wait time is too long,43.0709017,-87.8877535
@@ -9194,7 +9194,7 @@
 9192,2/26/19 17:15,1,Global Water Center,Kenilworth,,2/26/19 17:43,2/26/19 17:53,27.0,no,,,Kenilworth
 9193,2/26/19 17:23,1,Zilber,Library,2/26/19 17:24,,,,yes,I'm not ready to go,,Library
 9194,2/26/19 18:00,1,Cunningham,"2864 North Murray Avenue, Milwaukee, Wisconsin 53211, United States",,2/26/19 18:03,2/26/19 18:09,3.0,no,,43.070873,-87.885092
-9195,2/26/19 18:00,1,Cunningham,"3235 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",,2/26/19 18:03,2/26/19 18:05,3.0,no,,43.07644270000001,-87.8892274
+9195,2/26/19 18:00,1,Cunningham,"3235 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",,2/26/19 18:03,2/26/19 18:05,3.0,no,,"3235 North Bartlett Avenue, Milwaukee, Wisconsin 53211, United States",
 9196,2/26/19 18:00,3,EMS Parking,Culver's,,2/26/19 18:05,2/26/19 18:19,5.0,no,,,Culver's
 9197,2/26/19 18:00,1,Cunningham,"2580 North Oakland Avenue, Milwaukee, Wisconsin 53211, United States",,2/26/19 18:03,2/26/19 18:11,3.0,no,,43.0656415,-87.88761310000001
 9198,2/26/19 18:00,1,"2518 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States",EMS Parking,,2/26/19 18:18,2/26/19 18:24,18.0,no,,,EMS Parking
@@ -9319,7 +9319,7 @@
 9317,2/26/19 18:41,2,Sandburg,"1827 East Park Place, Milwaukee, Wisconsin 53211, United States",,2/26/19 19:33,2/26/19 19:40,51.0,no,,43.0672235,-87.8870503
 9318,2/26/19 18:41,1,Honor's College,"3026 North Frederick Avenue, Milwaukee, Wisconsin 53211, United States",,2/26/19 19:42,2/26/19 19:45,61.0,no,,43.073456,-87.883802
 9319,2/26/19 18:41,3,Curtin,"2571 North Murray Avenue, Milwaukee, Wisconsin 53211, United States",2/26/19 18:59,,,,yes,It took too long to receive my ETA,43.0654767,-87.88586869999999
-9320,2/26/19 18:42,1,"3059 N Prospect Ave, Milwaukee, WI 53211, USA","2743 N Cramer St, Milwaukee, WI 53211, USA",2/26/19 19:56,,,,no,No show,"2743 N Cramer St, Milwaukee, WI 53211, USA",
+9320,2/26/19 18:42,1,"3059 N Prospect Ave, Milwaukee, WI 53211, USA","2743 N Cramer St, Milwaukee, WI 53211, USA",2/26/19 19:56,,,,no,No show,43.0683406,-87.8869881
 9321,2/26/19 18:42,1,Arch Court,"2526 North Farwell Avenue, Milwaukee, Wisconsin 53211, United States",2/26/19 18:52,,,,yes,I'm not ready to go,43.0643941,-87.88144899999999
 9322,2/26/19 18:43,1,"2742 N Maryland Ave, Milwaukee, WI 53211, USA",Klotsche,,2/26/19 19:36,2/26/19 19:40,52.0,no,,,Klotsche
 9323,2/26/19 18:44,1,FedEx,"3258 North Downer Avenue, Milwaukee, Wisconsin 53211, United States",,2/26/19 19:11,2/26/19 19:21,27.0,no,,43.0769522,-87.8775459
