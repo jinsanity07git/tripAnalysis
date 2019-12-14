@@ -64,12 +64,12 @@ if __name__ == '__main__':
     start = time.time()
     print("hello")
     dictAB = {"A": "UW-Milwaukee", "B": "UWM"}
-    Choice = "B"
+    Choice = "A"
 
     Rela_ad = 'inprocess_results/'
-    path = Rela_ad + 'outliers.csv'
+    path = Rela_ad + 'outliersPick Up Location.csv'
 
-    outfile01 = Rela_ad + "Request_data_test" + Choice  +".csv"
+    outfile01 = Rela_ad + "Request_data_test" + "PK"  +".csv"
 
     df = pd.read_csv(path,delimiter='\n', header= None)
     address_to_search = list(df[0])

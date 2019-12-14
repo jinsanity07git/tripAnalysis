@@ -1,0 +1,13 @@
+street,state,city,county,country,postal_code,neighborhood,sublocality,housenumber,postal_town,subpremise,latitude,longitude,location_type,postal_code_suffix,street_number,address,count
+,Wisconsin,Milwaukee,Milwaukee County,United States,,,,,,,43.0389025,-87.9064736,APPROXIMATE,,,blank,1
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,Klotsche Center,43.0795057,-87.8796776,ROOFTOP,,,Klotsche,356
+,Wisconsin,Milwaukee,Milwaukee County,United States,53211,,,,,,43.078263,-87.8819686,GEOMETRIC_CENTER,,,Union South,206
+East Kenwood Boulevard,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0762464,-87.8802443,ROOFTOP,,2400,Music Building Parking,49
+North Maryland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0753494,-87.8830974,ROOFTOP,,3101,KIRC Parking,47
+North Oakland Avenue,Wisconsin,Shorewood,Milwaukee County,United States,53211,,,,,,43.0916326,-87.8877604,ROOFTOP,,4075,Metro Market Shorewood,117
+East Kenwood Boulevard,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0752308,-87.881425,ROOFTOP,,2200,Union North,96
+Southeast Washington Boulevard,Oklahoma,Bartlesville,Washington County,United States,74006,,,,,Ste 418,36.7156125,-95.9321788,ROOFTOP,,2350,Noodles & Company,60
+East Hartford Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0767674,-87.8807049,ROOFTOP,3175,2311,Library,519
+East North Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53202,Murray Hill,,,,,43.060335,-87.887613,ROOFTOP,,1806,Fresh Fin,10
+North Downer Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Northpoint,,,,,43.065046,-87.878266,ROOFTOP,,2551,Starbucks - Downer,22
+North Maryland Avenue,Wisconsin,Milwaukee,Milwaukee County,United States,53211,Downer Woods,,,,,43.0789822,-87.8822568,ROOFTOP,,3400,Sandburg,1266
