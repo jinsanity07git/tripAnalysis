@@ -14,7 +14,7 @@ print("hello")
 
 location = {'O':'Pick Up Location', 'D':'Drop Off Location'}
 path  = 'Data/2019_02.csv'
-OD_type = location['O']
+OD_type = location['D']
 Rela_ad = 'inprocess_results/'
 outfile01 = Rela_ad + 'boss02_'+OD_type+ '.csv'
 outfile02 = Rela_ad + 'outliers' +OD_type + '.csv'
@@ -121,7 +121,7 @@ df.to_csv(outfile01)
 for key,value in iter(dic_len.items()):
     print (key,value)
 
-with open(outfile02,'w') as csvfile:
+with open(outfile02,'w',encoding='utf-8') as csvfile:
         # wr = csv.writer(csvfile)
         for key,value in iter(dic_len.items()):
             csvfile.write(key+','+ str(value) + '\n')
