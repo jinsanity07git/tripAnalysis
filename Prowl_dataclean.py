@@ -6,7 +6,12 @@ path = 'Data/'
 outfile = '2017Prowl_condense.csv'
 
 df_raw = pd.read_excel(path+ fname)
-# # df_raw.head(50)
+print (len(df_raw))
+
+df1 = df_raw[(df_raw.Date == '2017-01-23' ) & (df_raw.Route == 'Peak Prowl Line')]
+df1.groupby('Stop')['Stop'].count()
+### 263382
+# # df_raw.head(10)
 # # df_raw.columns
 # df_raw['Unhashed card ID']
 '''
@@ -18,7 +23,9 @@ Device', 'Passenger type', 'On/Off', 'Lat', 'Lng', 'Speed',
 #step1: drop none value in rows
 df_raw['Unhashed card ID'].dropna()
 df_raw1 =df_raw.dropna()
-
+print (len(df_raw1))
+# 204384/263382
+### 204384
 # summarize information
 Stud_ID = df_raw1['Unhashed card ID'].unique()
 len(Stud_ID)
